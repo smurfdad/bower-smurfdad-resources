@@ -2526,7 +2526,7 @@ output {
   padding-top: 7px;
   font-size: 14px;
   line-height: 1.42857143;
-  color: gray;
+  color: #808080;
 }
 .form-control {
   display: block;
@@ -2535,7 +2535,7 @@ output {
   padding: 6px 12px;
   font-size: 14px;
   line-height: 1.42857143;
-  color: gray;
+  color: #808080;
   background-color: #fff;
   background-image: none;
   border: 1px solid #ccc;
@@ -3863,7 +3863,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   font-size: 14px;
   font-weight: normal;
   line-height: 1;
-  color: gray;
+  color: #808080;
   text-align: center;
   background-color: #eeeeee;
   border: 1px solid #ccc;
@@ -3997,7 +3997,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
-  color: gray;
+  color: #808080;
   background-color: #fff;
   border: 1px solid #ddd;
   border-bottom-color: transparent;
@@ -6701,888 +6701,8 @@ button.close {
 .bs-callout + .bs-callout {
   margin-top: -5px;
 }
-.bs-callout-white {
-  border-left-color: white;
-}
-.bs-callout-white h1,
-.bs-callout-white h2,
-.bs-callout-white h3,
-.bs-callout-white h4,
-.bs-callout-white h5,
-.bs-callout-white h6 {
-  color: white;
-}
-.bs-callout-ivory {
-  border-left-color: ivory;
-}
-.bs-callout-ivory h1,
-.bs-callout-ivory h2,
-.bs-callout-ivory h3,
-.bs-callout-ivory h4,
-.bs-callout-ivory h5,
-.bs-callout-ivory h6 {
-  color: ivory;
-}
-.bs-callout-lightyellow {
-  border-left-color: lightyellow;
-}
-.bs-callout-lightyellow h1,
-.bs-callout-lightyellow h2,
-.bs-callout-lightyellow h3,
-.bs-callout-lightyellow h4,
-.bs-callout-lightyellow h5,
-.bs-callout-lightyellow h6 {
-  color: lightyellow;
-}
-.bs-callout-yellow {
-  border-left-color: yellow;
-}
-.bs-callout-yellow h1,
-.bs-callout-yellow h2,
-.bs-callout-yellow h3,
-.bs-callout-yellow h4,
-.bs-callout-yellow h5,
-.bs-callout-yellow h6 {
-  color: yellow;
-}
-.bs-callout-snow {
-  border-left-color: snow;
-}
-.bs-callout-snow h1,
-.bs-callout-snow h2,
-.bs-callout-snow h3,
-.bs-callout-snow h4,
-.bs-callout-snow h5,
-.bs-callout-snow h6 {
-  color: snow;
-}
-.bs-callout-floralwhite {
-  border-left-color: floralwhite;
-}
-.bs-callout-floralwhite h1,
-.bs-callout-floralwhite h2,
-.bs-callout-floralwhite h3,
-.bs-callout-floralwhite h4,
-.bs-callout-floralwhite h5,
-.bs-callout-floralwhite h6 {
-  color: floralwhite;
-}
-.bs-callout-lemonchiffon {
-  border-left-color: lemonchiffon;
-}
-.bs-callout-lemonchiffon h1,
-.bs-callout-lemonchiffon h2,
-.bs-callout-lemonchiffon h3,
-.bs-callout-lemonchiffon h4,
-.bs-callout-lemonchiffon h5,
-.bs-callout-lemonchiffon h6 {
-  color: lemonchiffon;
-}
-.bs-callout-cornsilk {
-  border-left-color: cornsilk;
-}
-.bs-callout-cornsilk h1,
-.bs-callout-cornsilk h2,
-.bs-callout-cornsilk h3,
-.bs-callout-cornsilk h4,
-.bs-callout-cornsilk h5,
-.bs-callout-cornsilk h6 {
-  color: cornsilk;
-}
-.bs-callout-seashell {
-  border-left-color: seashell;
-}
-.bs-callout-seashell h1,
-.bs-callout-seashell h2,
-.bs-callout-seashell h3,
-.bs-callout-seashell h4,
-.bs-callout-seashell h5,
-.bs-callout-seashell h6 {
-  color: seashell;
-}
-.bs-callout-lavenderblush {
-  border-left-color: lavenderblush;
-}
-.bs-callout-lavenderblush h1,
-.bs-callout-lavenderblush h2,
-.bs-callout-lavenderblush h3,
-.bs-callout-lavenderblush h4,
-.bs-callout-lavenderblush h5,
-.bs-callout-lavenderblush h6 {
-  color: lavenderblush;
-}
-.bs-callout-papayawhip {
-  border-left-color: papayawhip;
-}
-.bs-callout-papayawhip h1,
-.bs-callout-papayawhip h2,
-.bs-callout-papayawhip h3,
-.bs-callout-papayawhip h4,
-.bs-callout-papayawhip h5,
-.bs-callout-papayawhip h6 {
-  color: papayawhip;
-}
-.bs-callout-blanchedalmond {
-  border-left-color: blanchedalmond;
-}
-.bs-callout-blanchedalmond h1,
-.bs-callout-blanchedalmond h2,
-.bs-callout-blanchedalmond h3,
-.bs-callout-blanchedalmond h4,
-.bs-callout-blanchedalmond h5,
-.bs-callout-blanchedalmond h6 {
-  color: blanchedalmond;
-}
-.bs-callout-mistyrose {
-  border-left-color: mistyrose;
-}
-.bs-callout-mistyrose h1,
-.bs-callout-mistyrose h2,
-.bs-callout-mistyrose h3,
-.bs-callout-mistyrose h4,
-.bs-callout-mistyrose h5,
-.bs-callout-mistyrose h6 {
-  color: mistyrose;
-}
-.bs-callout-bisque {
-  border-left-color: bisque;
-}
-.bs-callout-bisque h1,
-.bs-callout-bisque h2,
-.bs-callout-bisque h3,
-.bs-callout-bisque h4,
-.bs-callout-bisque h5,
-.bs-callout-bisque h6 {
-  color: bisque;
-}
-.bs-callout-moccasin {
-  border-left-color: moccasin;
-}
-.bs-callout-moccasin h1,
-.bs-callout-moccasin h2,
-.bs-callout-moccasin h3,
-.bs-callout-moccasin h4,
-.bs-callout-moccasin h5,
-.bs-callout-moccasin h6 {
-  color: moccasin;
-}
-.bs-callout-navajowhite {
-  border-left-color: navajowhite;
-}
-.bs-callout-navajowhite h1,
-.bs-callout-navajowhite h2,
-.bs-callout-navajowhite h3,
-.bs-callout-navajowhite h4,
-.bs-callout-navajowhite h5,
-.bs-callout-navajowhite h6 {
-  color: navajowhite;
-}
-.bs-callout-peachpuff {
-  border-left-color: peachpuff;
-}
-.bs-callout-peachpuff h1,
-.bs-callout-peachpuff h2,
-.bs-callout-peachpuff h3,
-.bs-callout-peachpuff h4,
-.bs-callout-peachpuff h5,
-.bs-callout-peachpuff h6 {
-  color: peachpuff;
-}
-.bs-callout-gold {
-  border-left-color: gold;
-}
-.bs-callout-gold h1,
-.bs-callout-gold h2,
-.bs-callout-gold h3,
-.bs-callout-gold h4,
-.bs-callout-gold h5,
-.bs-callout-gold h6 {
-  color: gold;
-}
-.bs-callout-pink {
-  border-left-color: pink;
-}
-.bs-callout-pink h1,
-.bs-callout-pink h2,
-.bs-callout-pink h3,
-.bs-callout-pink h4,
-.bs-callout-pink h5,
-.bs-callout-pink h6 {
-  color: pink;
-}
-.bs-callout-lightpink {
-  border-left-color: lightpink;
-}
-.bs-callout-lightpink h1,
-.bs-callout-lightpink h2,
-.bs-callout-lightpink h3,
-.bs-callout-lightpink h4,
-.bs-callout-lightpink h5,
-.bs-callout-lightpink h6 {
-  color: lightpink;
-}
-.bs-callout-orange {
-  border-left-color: orange;
-}
-.bs-callout-orange h1,
-.bs-callout-orange h2,
-.bs-callout-orange h3,
-.bs-callout-orange h4,
-.bs-callout-orange h5,
-.bs-callout-orange h6 {
-  color: orange;
-}
-.bs-callout-lightsalmon {
-  border-left-color: lightsalmon;
-}
-.bs-callout-lightsalmon h1,
-.bs-callout-lightsalmon h2,
-.bs-callout-lightsalmon h3,
-.bs-callout-lightsalmon h4,
-.bs-callout-lightsalmon h5,
-.bs-callout-lightsalmon h6 {
-  color: lightsalmon;
-}
-.bs-callout-darkorange {
-  border-left-color: darkorange;
-}
-.bs-callout-darkorange h1,
-.bs-callout-darkorange h2,
-.bs-callout-darkorange h3,
-.bs-callout-darkorange h4,
-.bs-callout-darkorange h5,
-.bs-callout-darkorange h6 {
-  color: darkorange;
-}
-.bs-callout-coral {
-  border-left-color: coral;
-}
-.bs-callout-coral h1,
-.bs-callout-coral h2,
-.bs-callout-coral h3,
-.bs-callout-coral h4,
-.bs-callout-coral h5,
-.bs-callout-coral h6 {
-  color: coral;
-}
-.bs-callout-hotpink {
-  border-left-color: hotpink;
-}
-.bs-callout-hotpink h1,
-.bs-callout-hotpink h2,
-.bs-callout-hotpink h3,
-.bs-callout-hotpink h4,
-.bs-callout-hotpink h5,
-.bs-callout-hotpink h6 {
-  color: hotpink;
-}
-.bs-callout-tomato {
-  border-left-color: tomato;
-}
-.bs-callout-tomato h1,
-.bs-callout-tomato h2,
-.bs-callout-tomato h3,
-.bs-callout-tomato h4,
-.bs-callout-tomato h5,
-.bs-callout-tomato h6 {
-  color: tomato;
-}
-.bs-callout-orangered {
-  border-left-color: orangered;
-}
-.bs-callout-orangered h1,
-.bs-callout-orangered h2,
-.bs-callout-orangered h3,
-.bs-callout-orangered h4,
-.bs-callout-orangered h5,
-.bs-callout-orangered h6 {
-  color: orangered;
-}
-.bs-callout-deeppink {
-  border-left-color: deeppink;
-}
-.bs-callout-deeppink h1,
-.bs-callout-deeppink h2,
-.bs-callout-deeppink h3,
-.bs-callout-deeppink h4,
-.bs-callout-deeppink h5,
-.bs-callout-deeppink h6 {
-  color: deeppink;
-}
-.bs-callout-magenta {
-  border-left-color: magenta;
-}
-.bs-callout-magenta h1,
-.bs-callout-magenta h2,
-.bs-callout-magenta h3,
-.bs-callout-magenta h4,
-.bs-callout-magenta h5,
-.bs-callout-magenta h6 {
-  color: magenta;
-}
-.bs-callout-fuchsia {
-  border-left-color: fuchsia;
-}
-.bs-callout-fuchsia h1,
-.bs-callout-fuchsia h2,
-.bs-callout-fuchsia h3,
-.bs-callout-fuchsia h4,
-.bs-callout-fuchsia h5,
-.bs-callout-fuchsia h6 {
-  color: fuchsia;
-}
-.bs-callout-red {
-  border-left-color: red;
-}
-.bs-callout-red h1,
-.bs-callout-red h2,
-.bs-callout-red h3,
-.bs-callout-red h4,
-.bs-callout-red h5,
-.bs-callout-red h6 {
-  color: red;
-}
-.bs-callout-oldlace {
-  border-left-color: oldlace;
-}
-.bs-callout-oldlace h1,
-.bs-callout-oldlace h2,
-.bs-callout-oldlace h3,
-.bs-callout-oldlace h4,
-.bs-callout-oldlace h5,
-.bs-callout-oldlace h6 {
-  color: oldlace;
-}
-.bs-callout-lightgoldenrodyellow {
-  border-left-color: lightgoldenrodyellow;
-}
-.bs-callout-lightgoldenrodyellow h1,
-.bs-callout-lightgoldenrodyellow h2,
-.bs-callout-lightgoldenrodyellow h3,
-.bs-callout-lightgoldenrodyellow h4,
-.bs-callout-lightgoldenrodyellow h5,
-.bs-callout-lightgoldenrodyellow h6 {
-  color: lightgoldenrodyellow;
-}
-.bs-callout-linen {
-  border-left-color: linen;
-}
-.bs-callout-linen h1,
-.bs-callout-linen h2,
-.bs-callout-linen h3,
-.bs-callout-linen h4,
-.bs-callout-linen h5,
-.bs-callout-linen h6 {
-  color: linen;
-}
-.bs-callout-antiquewhite {
-  border-left-color: antiquewhite;
-}
-.bs-callout-antiquewhite h1,
-.bs-callout-antiquewhite h2,
-.bs-callout-antiquewhite h3,
-.bs-callout-antiquewhite h4,
-.bs-callout-antiquewhite h5,
-.bs-callout-antiquewhite h6 {
-  color: antiquewhite;
-}
-.bs-callout-salmon {
-  border-left-color: salmon;
-}
-.bs-callout-salmon h1,
-.bs-callout-salmon h2,
-.bs-callout-salmon h3,
-.bs-callout-salmon h4,
-.bs-callout-salmon h5,
-.bs-callout-salmon h6 {
-  color: salmon;
-}
-.bs-callout-ghostwhite {
-  border-left-color: ghostwhite;
-}
-.bs-callout-ghostwhite h1,
-.bs-callout-ghostwhite h2,
-.bs-callout-ghostwhite h3,
-.bs-callout-ghostwhite h4,
-.bs-callout-ghostwhite h5,
-.bs-callout-ghostwhite h6 {
-  color: ghostwhite;
-}
-.bs-callout-mintcream {
-  border-left-color: mintcream;
-}
-.bs-callout-mintcream h1,
-.bs-callout-mintcream h2,
-.bs-callout-mintcream h3,
-.bs-callout-mintcream h4,
-.bs-callout-mintcream h5,
-.bs-callout-mintcream h6 {
-  color: mintcream;
-}
-.bs-callout-whitesmoke {
-  border-left-color: whitesmoke;
-}
-.bs-callout-whitesmoke h1,
-.bs-callout-whitesmoke h2,
-.bs-callout-whitesmoke h3,
-.bs-callout-whitesmoke h4,
-.bs-callout-whitesmoke h5,
-.bs-callout-whitesmoke h6 {
-  color: whitesmoke;
-}
-.bs-callout-beige {
-  border-left-color: beige;
-}
-.bs-callout-beige h1,
-.bs-callout-beige h2,
-.bs-callout-beige h3,
-.bs-callout-beige h4,
-.bs-callout-beige h5,
-.bs-callout-beige h6 {
-  color: beige;
-}
-.bs-callout-wheat {
-  border-left-color: wheat;
-}
-.bs-callout-wheat h1,
-.bs-callout-wheat h2,
-.bs-callout-wheat h3,
-.bs-callout-wheat h4,
-.bs-callout-wheat h5,
-.bs-callout-wheat h6 {
-  color: wheat;
-}
-.bs-callout-sandybrown {
-  border-left-color: sandybrown;
-}
-.bs-callout-sandybrown h1,
-.bs-callout-sandybrown h2,
-.bs-callout-sandybrown h3,
-.bs-callout-sandybrown h4,
-.bs-callout-sandybrown h5,
-.bs-callout-sandybrown h6 {
-  color: sandybrown;
-}
-.bs-callout-azure {
-  border-left-color: azure;
-}
-.bs-callout-azure h1,
-.bs-callout-azure h2,
-.bs-callout-azure h3,
-.bs-callout-azure h4,
-.bs-callout-azure h5,
-.bs-callout-azure h6 {
-  color: azure;
-}
-.bs-callout-honeydew {
-  border-left-color: honeydew;
-}
-.bs-callout-honeydew h1,
-.bs-callout-honeydew h2,
-.bs-callout-honeydew h3,
-.bs-callout-honeydew h4,
-.bs-callout-honeydew h5,
-.bs-callout-honeydew h6 {
-  color: honeydew;
-}
-.bs-callout-aliceblue {
-  border-left-color: aliceblue;
-}
-.bs-callout-aliceblue h1,
-.bs-callout-aliceblue h2,
-.bs-callout-aliceblue h3,
-.bs-callout-aliceblue h4,
-.bs-callout-aliceblue h5,
-.bs-callout-aliceblue h6 {
-  color: aliceblue;
-}
-.bs-callout-khaki {
-  border-left-color: khaki;
-}
-.bs-callout-khaki h1,
-.bs-callout-khaki h2,
-.bs-callout-khaki h3,
-.bs-callout-khaki h4,
-.bs-callout-khaki h5,
-.bs-callout-khaki h6 {
-  color: khaki;
-}
-.bs-callout-lightcoral {
-  border-left-color: lightcoral;
-}
-.bs-callout-lightcoral h1,
-.bs-callout-lightcoral h2,
-.bs-callout-lightcoral h3,
-.bs-callout-lightcoral h4,
-.bs-callout-lightcoral h5,
-.bs-callout-lightcoral h6 {
-  color: lightcoral;
-}
-.bs-callout-palegoldenrod {
-  border-left-color: palegoldenrod;
-}
-.bs-callout-palegoldenrod h1,
-.bs-callout-palegoldenrod h2,
-.bs-callout-palegoldenrod h3,
-.bs-callout-palegoldenrod h4,
-.bs-callout-palegoldenrod h5,
-.bs-callout-palegoldenrod h6 {
-  color: palegoldenrod;
-}
-.bs-callout-violet {
-  border-left-color: violet;
-}
-.bs-callout-violet h1,
-.bs-callout-violet h2,
-.bs-callout-violet h3,
-.bs-callout-violet h4,
-.bs-callout-violet h5,
-.bs-callout-violet h6 {
-  color: violet;
-}
-.bs-callout-darksalmon {
-  border-left-color: darksalmon;
-}
-.bs-callout-darksalmon h1,
-.bs-callout-darksalmon h2,
-.bs-callout-darksalmon h3,
-.bs-callout-darksalmon h4,
-.bs-callout-darksalmon h5,
-.bs-callout-darksalmon h6 {
-  color: darksalmon;
-}
-.bs-callout-lavender {
-  border-left-color: lavender;
-}
-.bs-callout-lavender h1,
-.bs-callout-lavender h2,
-.bs-callout-lavender h3,
-.bs-callout-lavender h4,
-.bs-callout-lavender h5,
-.bs-callout-lavender h6 {
-  color: lavender;
-}
-.bs-callout-lightcyan {
-  border-left-color: lightcyan;
-}
-.bs-callout-lightcyan h1,
-.bs-callout-lightcyan h2,
-.bs-callout-lightcyan h3,
-.bs-callout-lightcyan h4,
-.bs-callout-lightcyan h5,
-.bs-callout-lightcyan h6 {
-  color: lightcyan;
-}
-.bs-callout-burlywood {
-  border-left-color: burlywood;
-}
-.bs-callout-burlywood h1,
-.bs-callout-burlywood h2,
-.bs-callout-burlywood h3,
-.bs-callout-burlywood h4,
-.bs-callout-burlywood h5,
-.bs-callout-burlywood h6 {
-  color: burlywood;
-}
-.bs-callout-plum {
-  border-left-color: plum;
-}
-.bs-callout-plum h1,
-.bs-callout-plum h2,
-.bs-callout-plum h3,
-.bs-callout-plum h4,
-.bs-callout-plum h5,
-.bs-callout-plum h6 {
-  color: plum;
-}
-.bs-callout-gainsboro {
-  border-left-color: gainsboro;
-}
-.bs-callout-gainsboro h1,
-.bs-callout-gainsboro h2,
-.bs-callout-gainsboro h3,
-.bs-callout-gainsboro h4,
-.bs-callout-gainsboro h5,
-.bs-callout-gainsboro h6 {
-  color: gainsboro;
-}
-.bs-callout-crimson {
-  border-left-color: crimson;
-}
-.bs-callout-crimson h1,
-.bs-callout-crimson h2,
-.bs-callout-crimson h3,
-.bs-callout-crimson h4,
-.bs-callout-crimson h5,
-.bs-callout-crimson h6 {
-  color: crimson;
-}
-.bs-callout-palevioletred {
-  border-left-color: palevioletred;
-}
-.bs-callout-palevioletred h1,
-.bs-callout-palevioletred h2,
-.bs-callout-palevioletred h3,
-.bs-callout-palevioletred h4,
-.bs-callout-palevioletred h5,
-.bs-callout-palevioletred h6 {
-  color: palevioletred;
-}
-.bs-callout-goldenrod {
-  border-left-color: goldenrod;
-}
-.bs-callout-goldenrod h1,
-.bs-callout-goldenrod h2,
-.bs-callout-goldenrod h3,
-.bs-callout-goldenrod h4,
-.bs-callout-goldenrod h5,
-.bs-callout-goldenrod h6 {
-  color: goldenrod;
-}
-.bs-callout-orchid {
-  border-left-color: orchid;
-}
-.bs-callout-orchid h1,
-.bs-callout-orchid h2,
-.bs-callout-orchid h3,
-.bs-callout-orchid h4,
-.bs-callout-orchid h5,
-.bs-callout-orchid h6 {
-  color: orchid;
-}
-.bs-callout-thistle {
-  border-left-color: thistle;
-}
-.bs-callout-thistle h1,
-.bs-callout-thistle h2,
-.bs-callout-thistle h3,
-.bs-callout-thistle h4,
-.bs-callout-thistle h5,
-.bs-callout-thistle h6 {
-  color: thistle;
-}
-.bs-callout-lightgray {
-  border-left-color: lightgray;
-}
-.bs-callout-lightgray h1,
-.bs-callout-lightgray h2,
-.bs-callout-lightgray h3,
-.bs-callout-lightgray h4,
-.bs-callout-lightgray h5,
-.bs-callout-lightgray h6 {
-  color: lightgray;
-}
-.bs-callout-tan {
-  border-left-color: tan;
-}
-.bs-callout-tan h1,
-.bs-callout-tan h2,
-.bs-callout-tan h3,
-.bs-callout-tan h4,
-.bs-callout-tan h5,
-.bs-callout-tan h6 {
-  color: tan;
-}
-.bs-callout-chocolate {
-  border-left-color: chocolate;
-}
-.bs-callout-chocolate h1,
-.bs-callout-chocolate h2,
-.bs-callout-chocolate h3,
-.bs-callout-chocolate h4,
-.bs-callout-chocolate h5,
-.bs-callout-chocolate h6 {
-  color: chocolate;
-}
-.bs-callout-peru {
-  border-left-color: peru;
-}
-.bs-callout-peru h1,
-.bs-callout-peru h2,
-.bs-callout-peru h3,
-.bs-callout-peru h4,
-.bs-callout-peru h5,
-.bs-callout-peru h6 {
-  color: peru;
-}
-.bs-callout-indianred {
-  border-left-color: indianred;
-}
-.bs-callout-indianred h1,
-.bs-callout-indianred h2,
-.bs-callout-indianred h3,
-.bs-callout-indianred h4,
-.bs-callout-indianred h5,
-.bs-callout-indianred h6 {
-  color: indianred;
-}
-.bs-callout-mediumvioletred {
-  border-left-color: mediumvioletred;
-}
-.bs-callout-mediumvioletred h1,
-.bs-callout-mediumvioletred h2,
-.bs-callout-mediumvioletred h3,
-.bs-callout-mediumvioletred h4,
-.bs-callout-mediumvioletred h5,
-.bs-callout-mediumvioletred h6 {
-  color: mediumvioletred;
-}
-.bs-callout-silver {
-  border-left-color: silver;
-}
-.bs-callout-silver h1,
-.bs-callout-silver h2,
-.bs-callout-silver h3,
-.bs-callout-silver h4,
-.bs-callout-silver h5,
-.bs-callout-silver h6 {
-  color: silver;
-}
-.bs-callout-darkkhaki {
-  border-left-color: darkkhaki;
-}
-.bs-callout-darkkhaki h1,
-.bs-callout-darkkhaki h2,
-.bs-callout-darkkhaki h3,
-.bs-callout-darkkhaki h4,
-.bs-callout-darkkhaki h5,
-.bs-callout-darkkhaki h6 {
-  color: darkkhaki;
-}
-.bs-callout-rosybrown {
-  border-left-color: rosybrown;
-}
-.bs-callout-rosybrown h1,
-.bs-callout-rosybrown h2,
-.bs-callout-rosybrown h3,
-.bs-callout-rosybrown h4,
-.bs-callout-rosybrown h5,
-.bs-callout-rosybrown h6 {
-  color: rosybrown;
-}
-.bs-callout-mediumorchid {
-  border-left-color: mediumorchid;
-}
-.bs-callout-mediumorchid h1,
-.bs-callout-mediumorchid h2,
-.bs-callout-mediumorchid h3,
-.bs-callout-mediumorchid h4,
-.bs-callout-mediumorchid h5,
-.bs-callout-mediumorchid h6 {
-  color: mediumorchid;
-}
-.bs-callout-darkgoldenrod {
-  border-left-color: darkgoldenrod;
-}
-.bs-callout-darkgoldenrod h1,
-.bs-callout-darkgoldenrod h2,
-.bs-callout-darkgoldenrod h3,
-.bs-callout-darkgoldenrod h4,
-.bs-callout-darkgoldenrod h5,
-.bs-callout-darkgoldenrod h6 {
-  color: darkgoldenrod;
-}
-.bs-callout-firebrick {
-  border-left-color: firebrick;
-}
-.bs-callout-firebrick h1,
-.bs-callout-firebrick h2,
-.bs-callout-firebrick h3,
-.bs-callout-firebrick h4,
-.bs-callout-firebrick h5,
-.bs-callout-firebrick h6 {
-  color: firebrick;
-}
-.bs-callout-powderblue {
-  border-left-color: powderblue;
-}
-.bs-callout-powderblue h1,
-.bs-callout-powderblue h2,
-.bs-callout-powderblue h3,
-.bs-callout-powderblue h4,
-.bs-callout-powderblue h5,
-.bs-callout-powderblue h6 {
-  color: powderblue;
-}
-.bs-callout-lightsteelblue {
-  border-left-color: lightsteelblue;
-}
-.bs-callout-lightsteelblue h1,
-.bs-callout-lightsteelblue h2,
-.bs-callout-lightsteelblue h3,
-.bs-callout-lightsteelblue h4,
-.bs-callout-lightsteelblue h5,
-.bs-callout-lightsteelblue h6 {
-  color: lightsteelblue;
-}
-.bs-callout-paleturquoise {
-  border-left-color: paleturquoise;
-}
-.bs-callout-paleturquoise h1,
-.bs-callout-paleturquoise h2,
-.bs-callout-paleturquoise h3,
-.bs-callout-paleturquoise h4,
-.bs-callout-paleturquoise h5,
-.bs-callout-paleturquoise h6 {
-  color: paleturquoise;
-}
-.bs-callout-greenyellow {
-  border-left-color: greenyellow;
-}
-.bs-callout-greenyellow h1,
-.bs-callout-greenyellow h2,
-.bs-callout-greenyellow h3,
-.bs-callout-greenyellow h4,
-.bs-callout-greenyellow h5,
-.bs-callout-greenyellow h6 {
-  color: greenyellow;
-}
-.bs-callout-lightblue {
-  border-left-color: lightblue;
-}
-.bs-callout-lightblue h1,
-.bs-callout-lightblue h2,
-.bs-callout-lightblue h3,
-.bs-callout-lightblue h4,
-.bs-callout-lightblue h5,
-.bs-callout-lightblue h6 {
-  color: lightblue;
-}
-.bs-callout-darkgray {
-  border-left-color: darkgray;
-}
-.bs-callout-darkgray h1,
-.bs-callout-darkgray h2,
-.bs-callout-darkgray h3,
-.bs-callout-darkgray h4,
-.bs-callout-darkgray h5,
-.bs-callout-darkgray h6 {
-  color: darkgray;
-}
-.bs-callout-brown {
-  border-left-color: brown;
-}
-.bs-callout-brown h1,
-.bs-callout-brown h2,
-.bs-callout-brown h3,
-.bs-callout-brown h4,
-.bs-callout-brown h5,
-.bs-callout-brown h6 {
-  color: brown;
-}
-.bs-callout-sienna {
-  border-left-color: sienna;
-}
-.bs-callout-sienna h1,
-.bs-callout-sienna h2,
-.bs-callout-sienna h3,
-.bs-callout-sienna h4,
-.bs-callout-sienna h5,
-.bs-callout-sienna h6 {
-  color: sienna;
-}
 .bs-callout-yellowgreen {
-  border-left-color: yellowgreen;
+  border-left-color: #9ACD32;
 }
 .bs-callout-yellowgreen h1,
 .bs-callout-yellowgreen h2,
@@ -7590,395 +6710,65 @@ button.close {
 .bs-callout-yellowgreen h4,
 .bs-callout-yellowgreen h5,
 .bs-callout-yellowgreen h6 {
-  color: yellowgreen;
-}
-.bs-callout-darkorchid {
-  border-left-color: darkorchid;
-}
-.bs-callout-darkorchid h1,
-.bs-callout-darkorchid h2,
-.bs-callout-darkorchid h3,
-.bs-callout-darkorchid h4,
-.bs-callout-darkorchid h5,
-.bs-callout-darkorchid h6 {
-  color: darkorchid;
-}
-.bs-callout-palegreen {
-  border-left-color: palegreen;
-}
-.bs-callout-palegreen h1,
-.bs-callout-palegreen h2,
-.bs-callout-palegreen h3,
-.bs-callout-palegreen h4,
-.bs-callout-palegreen h5,
-.bs-callout-palegreen h6 {
-  color: palegreen;
-}
-.bs-callout-darkviolet {
-  border-left-color: darkviolet;
-}
-.bs-callout-darkviolet h1,
-.bs-callout-darkviolet h2,
-.bs-callout-darkviolet h3,
-.bs-callout-darkviolet h4,
-.bs-callout-darkviolet h5,
-.bs-callout-darkviolet h6 {
-  color: darkviolet;
-}
-.bs-callout-mediumpurple {
-  border-left-color: mediumpurple;
-}
-.bs-callout-mediumpurple h1,
-.bs-callout-mediumpurple h2,
-.bs-callout-mediumpurple h3,
-.bs-callout-mediumpurple h4,
-.bs-callout-mediumpurple h5,
-.bs-callout-mediumpurple h6 {
-  color: mediumpurple;
-}
-.bs-callout-lightgreen {
-  border-left-color: lightgreen;
-}
-.bs-callout-lightgreen h1,
-.bs-callout-lightgreen h2,
-.bs-callout-lightgreen h3,
-.bs-callout-lightgreen h4,
-.bs-callout-lightgreen h5,
-.bs-callout-lightgreen h6 {
-  color: lightgreen;
-}
-.bs-callout-darkseagreen {
-  border-left-color: darkseagreen;
-}
-.bs-callout-darkseagreen h1,
-.bs-callout-darkseagreen h2,
-.bs-callout-darkseagreen h3,
-.bs-callout-darkseagreen h4,
-.bs-callout-darkseagreen h5,
-.bs-callout-darkseagreen h6 {
-  color: darkseagreen;
-}
-.bs-callout-saddlebrown {
-  border-left-color: saddlebrown;
-}
-.bs-callout-saddlebrown h1,
-.bs-callout-saddlebrown h2,
-.bs-callout-saddlebrown h3,
-.bs-callout-saddlebrown h4,
-.bs-callout-saddlebrown h5,
-.bs-callout-saddlebrown h6 {
-  color: saddlebrown;
-}
-.bs-callout-darkmagenta {
-  border-left-color: darkmagenta;
-}
-.bs-callout-darkmagenta h1,
-.bs-callout-darkmagenta h2,
-.bs-callout-darkmagenta h3,
-.bs-callout-darkmagenta h4,
-.bs-callout-darkmagenta h5,
-.bs-callout-darkmagenta h6 {
-  color: darkmagenta;
-}
-.bs-callout-darkred {
-  border-left-color: darkred;
-}
-.bs-callout-darkred h1,
-.bs-callout-darkred h2,
-.bs-callout-darkred h3,
-.bs-callout-darkred h4,
-.bs-callout-darkred h5,
-.bs-callout-darkred h6 {
-  color: darkred;
-}
-.bs-callout-blueviolet {
-  border-left-color: blueviolet;
-}
-.bs-callout-blueviolet h1,
-.bs-callout-blueviolet h2,
-.bs-callout-blueviolet h3,
-.bs-callout-blueviolet h4,
-.bs-callout-blueviolet h5,
-.bs-callout-blueviolet h6 {
-  color: blueviolet;
-}
-.bs-callout-lightskyblue {
-  border-left-color: lightskyblue;
-}
-.bs-callout-lightskyblue h1,
-.bs-callout-lightskyblue h2,
-.bs-callout-lightskyblue h3,
-.bs-callout-lightskyblue h4,
-.bs-callout-lightskyblue h5,
-.bs-callout-lightskyblue h6 {
-  color: lightskyblue;
-}
-.bs-callout-skyblue {
-  border-left-color: skyblue;
-}
-.bs-callout-skyblue h1,
-.bs-callout-skyblue h2,
-.bs-callout-skyblue h3,
-.bs-callout-skyblue h4,
-.bs-callout-skyblue h5,
-.bs-callout-skyblue h6 {
-  color: skyblue;
-}
-.bs-callout-gray {
-  border-left-color: gray;
-}
-.bs-callout-gray h1,
-.bs-callout-gray h2,
-.bs-callout-gray h3,
-.bs-callout-gray h4,
-.bs-callout-gray h5,
-.bs-callout-gray h6 {
-  color: gray;
-}
-.bs-callout-olive {
-  border-left-color: olive;
-}
-.bs-callout-olive h1,
-.bs-callout-olive h2,
-.bs-callout-olive h3,
-.bs-callout-olive h4,
-.bs-callout-olive h5,
-.bs-callout-olive h6 {
-  color: olive;
-}
-.bs-callout-purple {
-  border-left-color: purple;
-}
-.bs-callout-purple h1,
-.bs-callout-purple h2,
-.bs-callout-purple h3,
-.bs-callout-purple h4,
-.bs-callout-purple h5,
-.bs-callout-purple h6 {
-  color: purple;
-}
-.bs-callout-maroon {
-  border-left-color: maroon;
-}
-.bs-callout-maroon h1,
-.bs-callout-maroon h2,
-.bs-callout-maroon h3,
-.bs-callout-maroon h4,
-.bs-callout-maroon h5,
-.bs-callout-maroon h6 {
-  color: maroon;
-}
-.bs-callout-aquamarine {
-  border-left-color: aquamarine;
-}
-.bs-callout-aquamarine h1,
-.bs-callout-aquamarine h2,
-.bs-callout-aquamarine h3,
-.bs-callout-aquamarine h4,
-.bs-callout-aquamarine h5,
-.bs-callout-aquamarine h6 {
-  color: aquamarine;
-}
-.bs-callout-chartreuse {
-  border-left-color: chartreuse;
-}
-.bs-callout-chartreuse h1,
-.bs-callout-chartreuse h2,
-.bs-callout-chartreuse h3,
-.bs-callout-chartreuse h4,
-.bs-callout-chartreuse h5,
-.bs-callout-chartreuse h6 {
-  color: chartreuse;
-}
-.bs-callout-lawngreen {
-  border-left-color: lawngreen;
-}
-.bs-callout-lawngreen h1,
-.bs-callout-lawngreen h2,
-.bs-callout-lawngreen h3,
-.bs-callout-lawngreen h4,
-.bs-callout-lawngreen h5,
-.bs-callout-lawngreen h6 {
-  color: lawngreen;
-}
-.bs-callout-mediumslateblue {
-  border-left-color: mediumslateblue;
-}
-.bs-callout-mediumslateblue h1,
-.bs-callout-mediumslateblue h2,
-.bs-callout-mediumslateblue h3,
-.bs-callout-mediumslateblue h4,
-.bs-callout-mediumslateblue h5,
-.bs-callout-mediumslateblue h6 {
-  color: mediumslateblue;
-}
-.bs-callout-lightslategray {
-  border-left-color: lightslategray;
-}
-.bs-callout-lightslategray h1,
-.bs-callout-lightslategray h2,
-.bs-callout-lightslategray h3,
-.bs-callout-lightslategray h4,
-.bs-callout-lightslategray h5,
-.bs-callout-lightslategray h6 {
-  color: lightslategray;
-}
-.bs-callout-slategray {
-  border-left-color: slategray;
-}
-.bs-callout-slategray h1,
-.bs-callout-slategray h2,
-.bs-callout-slategray h3,
-.bs-callout-slategray h4,
-.bs-callout-slategray h5,
-.bs-callout-slategray h6 {
-  color: slategray;
-}
-.bs-callout-olivedrab {
-  border-left-color: olivedrab;
-}
-.bs-callout-olivedrab h1,
-.bs-callout-olivedrab h2,
-.bs-callout-olivedrab h3,
-.bs-callout-olivedrab h4,
-.bs-callout-olivedrab h5,
-.bs-callout-olivedrab h6 {
-  color: olivedrab;
-}
-.bs-callout-slateblue {
-  border-left-color: slateblue;
-}
-.bs-callout-slateblue h1,
-.bs-callout-slateblue h2,
-.bs-callout-slateblue h3,
-.bs-callout-slateblue h4,
-.bs-callout-slateblue h5,
-.bs-callout-slateblue h6 {
-  color: slateblue;
-}
-.bs-callout-dimgray {
-  border-left-color: dimgray;
-}
-.bs-callout-dimgray h1,
-.bs-callout-dimgray h2,
-.bs-callout-dimgray h3,
-.bs-callout-dimgray h4,
-.bs-callout-dimgray h5,
-.bs-callout-dimgray h6 {
-  color: dimgray;
-}
-.bs-callout-mediumaquamarine {
-  border-left-color: mediumaquamarine;
-}
-.bs-callout-mediumaquamarine h1,
-.bs-callout-mediumaquamarine h2,
-.bs-callout-mediumaquamarine h3,
-.bs-callout-mediumaquamarine h4,
-.bs-callout-mediumaquamarine h5,
-.bs-callout-mediumaquamarine h6 {
-  color: mediumaquamarine;
-}
-.bs-callout-rebeccapurple {
-  border-left-color: rebeccapurple;
-}
-.bs-callout-rebeccapurple h1,
-.bs-callout-rebeccapurple h2,
-.bs-callout-rebeccapurple h3,
-.bs-callout-rebeccapurple h4,
-.bs-callout-rebeccapurple h5,
-.bs-callout-rebeccapurple h6 {
-  color: rebeccapurple;
-}
-.bs-callout-cornflowerblue {
-  border-left-color: cornflowerblue;
-}
-.bs-callout-cornflowerblue h1,
-.bs-callout-cornflowerblue h2,
-.bs-callout-cornflowerblue h3,
-.bs-callout-cornflowerblue h4,
-.bs-callout-cornflowerblue h5,
-.bs-callout-cornflowerblue h6 {
-  color: cornflowerblue;
-}
-.bs-callout-cadetblue {
-  border-left-color: cadetblue;
-}
-.bs-callout-cadetblue h1,
-.bs-callout-cadetblue h2,
-.bs-callout-cadetblue h3,
-.bs-callout-cadetblue h4,
-.bs-callout-cadetblue h5,
-.bs-callout-cadetblue h6 {
-  color: cadetblue;
-}
-.bs-callout-darkolivegreen {
-  border-left-color: darkolivegreen;
-}
-.bs-callout-darkolivegreen h1,
-.bs-callout-darkolivegreen h2,
-.bs-callout-darkolivegreen h3,
-.bs-callout-darkolivegreen h4,
-.bs-callout-darkolivegreen h5,
-.bs-callout-darkolivegreen h6 {
-  color: darkolivegreen;
-}
-.bs-callout-indigo {
-  border-left-color: indigo;
-}
-.bs-callout-indigo h1,
-.bs-callout-indigo h2,
-.bs-callout-indigo h3,
-.bs-callout-indigo h4,
-.bs-callout-indigo h5,
-.bs-callout-indigo h6 {
-  color: indigo;
-}
-.bs-callout-mediumturquoise {
-  border-left-color: mediumturquoise;
-}
-.bs-callout-mediumturquoise h1,
-.bs-callout-mediumturquoise h2,
-.bs-callout-mediumturquoise h3,
-.bs-callout-mediumturquoise h4,
-.bs-callout-mediumturquoise h5,
-.bs-callout-mediumturquoise h6 {
-  color: mediumturquoise;
-}
-.bs-callout-darkslateblue {
-  border-left-color: darkslateblue;
-}
-.bs-callout-darkslateblue h1,
-.bs-callout-darkslateblue h2,
-.bs-callout-darkslateblue h3,
-.bs-callout-darkslateblue h4,
-.bs-callout-darkslateblue h5,
-.bs-callout-darkslateblue h6 {
-  color: darkslateblue;
-}
-.bs-callout-steelblue {
-  border-left-color: steelblue;
-}
-.bs-callout-steelblue h1,
-.bs-callout-steelblue h2,
-.bs-callout-steelblue h3,
-.bs-callout-steelblue h4,
-.bs-callout-steelblue h5,
-.bs-callout-steelblue h6 {
-  color: steelblue;
-}
-.bs-callout-royalblue {
-  border-left-color: royalblue;
-}
-.bs-callout-royalblue h1,
-.bs-callout-royalblue h2,
-.bs-callout-royalblue h3,
-.bs-callout-royalblue h4,
-.bs-callout-royalblue h5,
-.bs-callout-royalblue h6 {
-  color: royalblue;
+  color: #9ACD32;
+}
+.bs-callout-yellow {
+  border-left-color: #FFFF00;
+}
+.bs-callout-yellow h1,
+.bs-callout-yellow h2,
+.bs-callout-yellow h3,
+.bs-callout-yellow h4,
+.bs-callout-yellow h5,
+.bs-callout-yellow h6 {
+  color: #FFFF00;
+}
+.bs-callout-whitesmoke {
+  border-left-color: #F5F5F5;
+}
+.bs-callout-whitesmoke h1,
+.bs-callout-whitesmoke h2,
+.bs-callout-whitesmoke h3,
+.bs-callout-whitesmoke h4,
+.bs-callout-whitesmoke h5,
+.bs-callout-whitesmoke h6 {
+  color: #F5F5F5;
+}
+.bs-callout-white {
+  border-left-color: #FFFFFF;
+}
+.bs-callout-white h1,
+.bs-callout-white h2,
+.bs-callout-white h3,
+.bs-callout-white h4,
+.bs-callout-white h5,
+.bs-callout-white h6 {
+  color: #FFFFFF;
+}
+.bs-callout-wheat {
+  border-left-color: #F5DEB3;
+}
+.bs-callout-wheat h1,
+.bs-callout-wheat h2,
+.bs-callout-wheat h3,
+.bs-callout-wheat h4,
+.bs-callout-wheat h5,
+.bs-callout-wheat h6 {
+  color: #F5DEB3;
+}
+.bs-callout-violet {
+  border-left-color: #EE82EE;
+}
+.bs-callout-violet h1,
+.bs-callout-violet h2,
+.bs-callout-violet h3,
+.bs-callout-violet h4,
+.bs-callout-violet h5,
+.bs-callout-violet h6 {
+  color: #EE82EE;
 }
 .bs-callout-turquoise {
-  border-left-color: turquoise;
+  border-left-color: #40E0D0;
 }
 .bs-callout-turquoise h1,
 .bs-callout-turquoise h2,
@@ -7986,186 +6776,32 @@ button.close {
 .bs-callout-turquoise h4,
 .bs-callout-turquoise h5,
 .bs-callout-turquoise h6 {
-  color: turquoise;
+  color: #40E0D0;
 }
-.bs-callout-mediumseagreen {
-  border-left-color: mediumseagreen;
+.bs-callout-tomato {
+  border-left-color: #FF6347;
 }
-.bs-callout-mediumseagreen h1,
-.bs-callout-mediumseagreen h2,
-.bs-callout-mediumseagreen h3,
-.bs-callout-mediumseagreen h4,
-.bs-callout-mediumseagreen h5,
-.bs-callout-mediumseagreen h6 {
-  color: mediumseagreen;
+.bs-callout-tomato h1,
+.bs-callout-tomato h2,
+.bs-callout-tomato h3,
+.bs-callout-tomato h4,
+.bs-callout-tomato h5,
+.bs-callout-tomato h6 {
+  color: #FF6347;
 }
-.bs-callout-limegreen {
-  border-left-color: limegreen;
+.bs-callout-thistle {
+  border-left-color: #D8BFD8;
 }
-.bs-callout-limegreen h1,
-.bs-callout-limegreen h2,
-.bs-callout-limegreen h3,
-.bs-callout-limegreen h4,
-.bs-callout-limegreen h5,
-.bs-callout-limegreen h6 {
-  color: limegreen;
-}
-.bs-callout-darkslategray {
-  border-left-color: darkslategray;
-}
-.bs-callout-darkslategray h1,
-.bs-callout-darkslategray h2,
-.bs-callout-darkslategray h3,
-.bs-callout-darkslategray h4,
-.bs-callout-darkslategray h5,
-.bs-callout-darkslategray h6 {
-  color: darkslategray;
-}
-.bs-callout-seagreen {
-  border-left-color: seagreen;
-}
-.bs-callout-seagreen h1,
-.bs-callout-seagreen h2,
-.bs-callout-seagreen h3,
-.bs-callout-seagreen h4,
-.bs-callout-seagreen h5,
-.bs-callout-seagreen h6 {
-  color: seagreen;
-}
-.bs-callout-forestgreen {
-  border-left-color: forestgreen;
-}
-.bs-callout-forestgreen h1,
-.bs-callout-forestgreen h2,
-.bs-callout-forestgreen h3,
-.bs-callout-forestgreen h4,
-.bs-callout-forestgreen h5,
-.bs-callout-forestgreen h6 {
-  color: forestgreen;
-}
-.bs-callout-lightseagreen {
-  border-left-color: lightseagreen;
-}
-.bs-callout-lightseagreen h1,
-.bs-callout-lightseagreen h2,
-.bs-callout-lightseagreen h3,
-.bs-callout-lightseagreen h4,
-.bs-callout-lightseagreen h5,
-.bs-callout-lightseagreen h6 {
-  color: lightseagreen;
-}
-.bs-callout-dodgerblue {
-  border-left-color: dodgerblue;
-}
-.bs-callout-dodgerblue h1,
-.bs-callout-dodgerblue h2,
-.bs-callout-dodgerblue h3,
-.bs-callout-dodgerblue h4,
-.bs-callout-dodgerblue h5,
-.bs-callout-dodgerblue h6 {
-  color: dodgerblue;
-}
-.bs-callout-midnightblue {
-  border-left-color: midnightblue;
-}
-.bs-callout-midnightblue h1,
-.bs-callout-midnightblue h2,
-.bs-callout-midnightblue h3,
-.bs-callout-midnightblue h4,
-.bs-callout-midnightblue h5,
-.bs-callout-midnightblue h6 {
-  color: midnightblue;
-}
-.bs-callout-cyan {
-  border-left-color: cyan;
-}
-.bs-callout-cyan h1,
-.bs-callout-cyan h2,
-.bs-callout-cyan h3,
-.bs-callout-cyan h4,
-.bs-callout-cyan h5,
-.bs-callout-cyan h6 {
-  color: cyan;
-}
-.bs-callout-aqua {
-  border-left-color: aqua;
-}
-.bs-callout-aqua h1,
-.bs-callout-aqua h2,
-.bs-callout-aqua h3,
-.bs-callout-aqua h4,
-.bs-callout-aqua h5,
-.bs-callout-aqua h6 {
-  color: aqua;
-}
-.bs-callout-springgreen {
-  border-left-color: springgreen;
-}
-.bs-callout-springgreen h1,
-.bs-callout-springgreen h2,
-.bs-callout-springgreen h3,
-.bs-callout-springgreen h4,
-.bs-callout-springgreen h5,
-.bs-callout-springgreen h6 {
-  color: springgreen;
-}
-.bs-callout-lime {
-  border-left-color: lime;
-}
-.bs-callout-lime h1,
-.bs-callout-lime h2,
-.bs-callout-lime h3,
-.bs-callout-lime h4,
-.bs-callout-lime h5,
-.bs-callout-lime h6 {
-  color: lime;
-}
-.bs-callout-mediumspringgreen {
-  border-left-color: mediumspringgreen;
-}
-.bs-callout-mediumspringgreen h1,
-.bs-callout-mediumspringgreen h2,
-.bs-callout-mediumspringgreen h3,
-.bs-callout-mediumspringgreen h4,
-.bs-callout-mediumspringgreen h5,
-.bs-callout-mediumspringgreen h6 {
-  color: mediumspringgreen;
-}
-.bs-callout-darkturquoise {
-  border-left-color: darkturquoise;
-}
-.bs-callout-darkturquoise h1,
-.bs-callout-darkturquoise h2,
-.bs-callout-darkturquoise h3,
-.bs-callout-darkturquoise h4,
-.bs-callout-darkturquoise h5,
-.bs-callout-darkturquoise h6 {
-  color: darkturquoise;
-}
-.bs-callout-deepskyblue {
-  border-left-color: deepskyblue;
-}
-.bs-callout-deepskyblue h1,
-.bs-callout-deepskyblue h2,
-.bs-callout-deepskyblue h3,
-.bs-callout-deepskyblue h4,
-.bs-callout-deepskyblue h5,
-.bs-callout-deepskyblue h6 {
-  color: deepskyblue;
-}
-.bs-callout-darkcyan {
-  border-left-color: darkcyan;
-}
-.bs-callout-darkcyan h1,
-.bs-callout-darkcyan h2,
-.bs-callout-darkcyan h3,
-.bs-callout-darkcyan h4,
-.bs-callout-darkcyan h5,
-.bs-callout-darkcyan h6 {
-  color: darkcyan;
+.bs-callout-thistle h1,
+.bs-callout-thistle h2,
+.bs-callout-thistle h3,
+.bs-callout-thistle h4,
+.bs-callout-thistle h5,
+.bs-callout-thistle h6 {
+  color: #D8BFD8;
 }
 .bs-callout-teal {
-  border-left-color: teal;
+  border-left-color: #008080;
 }
 .bs-callout-teal h1,
 .bs-callout-teal h2,
@@ -8173,65 +6809,395 @@ button.close {
 .bs-callout-teal h4,
 .bs-callout-teal h5,
 .bs-callout-teal h6 {
-  color: teal;
+  color: #008080;
 }
-.bs-callout-green {
-  border-left-color: green;
+.bs-callout-tan {
+  border-left-color: #D2B48C;
 }
-.bs-callout-green h1,
-.bs-callout-green h2,
-.bs-callout-green h3,
-.bs-callout-green h4,
-.bs-callout-green h5,
-.bs-callout-green h6 {
-  color: green;
+.bs-callout-tan h1,
+.bs-callout-tan h2,
+.bs-callout-tan h3,
+.bs-callout-tan h4,
+.bs-callout-tan h5,
+.bs-callout-tan h6 {
+  color: #D2B48C;
 }
-.bs-callout-darkgreen {
-  border-left-color: darkgreen;
+.bs-callout-steelblue {
+  border-left-color: #4682B4;
 }
-.bs-callout-darkgreen h1,
-.bs-callout-darkgreen h2,
-.bs-callout-darkgreen h3,
-.bs-callout-darkgreen h4,
-.bs-callout-darkgreen h5,
-.bs-callout-darkgreen h6 {
-  color: darkgreen;
+.bs-callout-steelblue h1,
+.bs-callout-steelblue h2,
+.bs-callout-steelblue h3,
+.bs-callout-steelblue h4,
+.bs-callout-steelblue h5,
+.bs-callout-steelblue h6 {
+  color: #4682B4;
 }
-.bs-callout-blue {
-  border-left-color: blue;
+.bs-callout-springgreen {
+  border-left-color: #00FF7F;
 }
-.bs-callout-blue h1,
-.bs-callout-blue h2,
-.bs-callout-blue h3,
-.bs-callout-blue h4,
-.bs-callout-blue h5,
-.bs-callout-blue h6 {
-  color: blue;
+.bs-callout-springgreen h1,
+.bs-callout-springgreen h2,
+.bs-callout-springgreen h3,
+.bs-callout-springgreen h4,
+.bs-callout-springgreen h5,
+.bs-callout-springgreen h6 {
+  color: #00FF7F;
 }
-.bs-callout-mediumblue {
-  border-left-color: mediumblue;
+.bs-callout-snow {
+  border-left-color: #FFFAFA;
 }
-.bs-callout-mediumblue h1,
-.bs-callout-mediumblue h2,
-.bs-callout-mediumblue h3,
-.bs-callout-mediumblue h4,
-.bs-callout-mediumblue h5,
-.bs-callout-mediumblue h6 {
-  color: mediumblue;
+.bs-callout-snow h1,
+.bs-callout-snow h2,
+.bs-callout-snow h3,
+.bs-callout-snow h4,
+.bs-callout-snow h5,
+.bs-callout-snow h6 {
+  color: #FFFAFA;
 }
-.bs-callout-darkblue {
-  border-left-color: darkblue;
+.bs-callout-slategray {
+  border-left-color: #708090;
 }
-.bs-callout-darkblue h1,
-.bs-callout-darkblue h2,
-.bs-callout-darkblue h3,
-.bs-callout-darkblue h4,
-.bs-callout-darkblue h5,
-.bs-callout-darkblue h6 {
-  color: darkblue;
+.bs-callout-slategray h1,
+.bs-callout-slategray h2,
+.bs-callout-slategray h3,
+.bs-callout-slategray h4,
+.bs-callout-slategray h5,
+.bs-callout-slategray h6 {
+  color: #708090;
+}
+.bs-callout-slateblue {
+  border-left-color: #6A5ACD;
+}
+.bs-callout-slateblue h1,
+.bs-callout-slateblue h2,
+.bs-callout-slateblue h3,
+.bs-callout-slateblue h4,
+.bs-callout-slateblue h5,
+.bs-callout-slateblue h6 {
+  color: #6A5ACD;
+}
+.bs-callout-skyblue {
+  border-left-color: #87CEEB;
+}
+.bs-callout-skyblue h1,
+.bs-callout-skyblue h2,
+.bs-callout-skyblue h3,
+.bs-callout-skyblue h4,
+.bs-callout-skyblue h5,
+.bs-callout-skyblue h6 {
+  color: #87CEEB;
+}
+.bs-callout-silver {
+  border-left-color: #C0C0C0;
+}
+.bs-callout-silver h1,
+.bs-callout-silver h2,
+.bs-callout-silver h3,
+.bs-callout-silver h4,
+.bs-callout-silver h5,
+.bs-callout-silver h6 {
+  color: #C0C0C0;
+}
+.bs-callout-sienna {
+  border-left-color: #A0522D;
+}
+.bs-callout-sienna h1,
+.bs-callout-sienna h2,
+.bs-callout-sienna h3,
+.bs-callout-sienna h4,
+.bs-callout-sienna h5,
+.bs-callout-sienna h6 {
+  color: #A0522D;
+}
+.bs-callout-seashell {
+  border-left-color: #FFF5EE;
+}
+.bs-callout-seashell h1,
+.bs-callout-seashell h2,
+.bs-callout-seashell h3,
+.bs-callout-seashell h4,
+.bs-callout-seashell h5,
+.bs-callout-seashell h6 {
+  color: #FFF5EE;
+}
+.bs-callout-seagreen {
+  border-left-color: #2E8B57;
+}
+.bs-callout-seagreen h1,
+.bs-callout-seagreen h2,
+.bs-callout-seagreen h3,
+.bs-callout-seagreen h4,
+.bs-callout-seagreen h5,
+.bs-callout-seagreen h6 {
+  color: #2E8B57;
+}
+.bs-callout-sandybrown {
+  border-left-color: #F4A460;
+}
+.bs-callout-sandybrown h1,
+.bs-callout-sandybrown h2,
+.bs-callout-sandybrown h3,
+.bs-callout-sandybrown h4,
+.bs-callout-sandybrown h5,
+.bs-callout-sandybrown h6 {
+  color: #F4A460;
+}
+.bs-callout-salmon {
+  border-left-color: #FA8072;
+}
+.bs-callout-salmon h1,
+.bs-callout-salmon h2,
+.bs-callout-salmon h3,
+.bs-callout-salmon h4,
+.bs-callout-salmon h5,
+.bs-callout-salmon h6 {
+  color: #FA8072;
+}
+.bs-callout-saddlebrown {
+  border-left-color: #8B4513;
+}
+.bs-callout-saddlebrown h1,
+.bs-callout-saddlebrown h2,
+.bs-callout-saddlebrown h3,
+.bs-callout-saddlebrown h4,
+.bs-callout-saddlebrown h5,
+.bs-callout-saddlebrown h6 {
+  color: #8B4513;
+}
+.bs-callout-royalblue {
+  border-left-color: #4169E1;
+}
+.bs-callout-royalblue h1,
+.bs-callout-royalblue h2,
+.bs-callout-royalblue h3,
+.bs-callout-royalblue h4,
+.bs-callout-royalblue h5,
+.bs-callout-royalblue h6 {
+  color: #4169E1;
+}
+.bs-callout-rosybrown {
+  border-left-color: #BC8F8F;
+}
+.bs-callout-rosybrown h1,
+.bs-callout-rosybrown h2,
+.bs-callout-rosybrown h3,
+.bs-callout-rosybrown h4,
+.bs-callout-rosybrown h5,
+.bs-callout-rosybrown h6 {
+  color: #BC8F8F;
+}
+.bs-callout-red {
+  border-left-color: #FF0000;
+}
+.bs-callout-red h1,
+.bs-callout-red h2,
+.bs-callout-red h3,
+.bs-callout-red h4,
+.bs-callout-red h5,
+.bs-callout-red h6 {
+  color: #FF0000;
+}
+.bs-callout-rebeccapurple {
+  border-left-color: #663399;
+}
+.bs-callout-rebeccapurple h1,
+.bs-callout-rebeccapurple h2,
+.bs-callout-rebeccapurple h3,
+.bs-callout-rebeccapurple h4,
+.bs-callout-rebeccapurple h5,
+.bs-callout-rebeccapurple h6 {
+  color: #663399;
+}
+.bs-callout-purple {
+  border-left-color: #800080;
+}
+.bs-callout-purple h1,
+.bs-callout-purple h2,
+.bs-callout-purple h3,
+.bs-callout-purple h4,
+.bs-callout-purple h5,
+.bs-callout-purple h6 {
+  color: #800080;
+}
+.bs-callout-powderblue {
+  border-left-color: #B0E0E6;
+}
+.bs-callout-powderblue h1,
+.bs-callout-powderblue h2,
+.bs-callout-powderblue h3,
+.bs-callout-powderblue h4,
+.bs-callout-powderblue h5,
+.bs-callout-powderblue h6 {
+  color: #B0E0E6;
+}
+.bs-callout-plum {
+  border-left-color: #DDA0DD;
+}
+.bs-callout-plum h1,
+.bs-callout-plum h2,
+.bs-callout-plum h3,
+.bs-callout-plum h4,
+.bs-callout-plum h5,
+.bs-callout-plum h6 {
+  color: #DDA0DD;
+}
+.bs-callout-pink {
+  border-left-color: #FFC0CB;
+}
+.bs-callout-pink h1,
+.bs-callout-pink h2,
+.bs-callout-pink h3,
+.bs-callout-pink h4,
+.bs-callout-pink h5,
+.bs-callout-pink h6 {
+  color: #FFC0CB;
+}
+.bs-callout-peru {
+  border-left-color: #CD853F;
+}
+.bs-callout-peru h1,
+.bs-callout-peru h2,
+.bs-callout-peru h3,
+.bs-callout-peru h4,
+.bs-callout-peru h5,
+.bs-callout-peru h6 {
+  color: #CD853F;
+}
+.bs-callout-peachpuff {
+  border-left-color: #FFDAB9;
+}
+.bs-callout-peachpuff h1,
+.bs-callout-peachpuff h2,
+.bs-callout-peachpuff h3,
+.bs-callout-peachpuff h4,
+.bs-callout-peachpuff h5,
+.bs-callout-peachpuff h6 {
+  color: #FFDAB9;
+}
+.bs-callout-papayawhip {
+  border-left-color: #FFEFD5;
+}
+.bs-callout-papayawhip h1,
+.bs-callout-papayawhip h2,
+.bs-callout-papayawhip h3,
+.bs-callout-papayawhip h4,
+.bs-callout-papayawhip h5,
+.bs-callout-papayawhip h6 {
+  color: #FFEFD5;
+}
+.bs-callout-palevioletred {
+  border-left-color: #DB7093;
+}
+.bs-callout-palevioletred h1,
+.bs-callout-palevioletred h2,
+.bs-callout-palevioletred h3,
+.bs-callout-palevioletred h4,
+.bs-callout-palevioletred h5,
+.bs-callout-palevioletred h6 {
+  color: #DB7093;
+}
+.bs-callout-paleturquoise {
+  border-left-color: #AFEEEE;
+}
+.bs-callout-paleturquoise h1,
+.bs-callout-paleturquoise h2,
+.bs-callout-paleturquoise h3,
+.bs-callout-paleturquoise h4,
+.bs-callout-paleturquoise h5,
+.bs-callout-paleturquoise h6 {
+  color: #AFEEEE;
+}
+.bs-callout-palegreen {
+  border-left-color: #98FB98;
+}
+.bs-callout-palegreen h1,
+.bs-callout-palegreen h2,
+.bs-callout-palegreen h3,
+.bs-callout-palegreen h4,
+.bs-callout-palegreen h5,
+.bs-callout-palegreen h6 {
+  color: #98FB98;
+}
+.bs-callout-palegoldenrod {
+  border-left-color: #EEE8AA;
+}
+.bs-callout-palegoldenrod h1,
+.bs-callout-palegoldenrod h2,
+.bs-callout-palegoldenrod h3,
+.bs-callout-palegoldenrod h4,
+.bs-callout-palegoldenrod h5,
+.bs-callout-palegoldenrod h6 {
+  color: #EEE8AA;
+}
+.bs-callout-orchid {
+  border-left-color: #DA70D6;
+}
+.bs-callout-orchid h1,
+.bs-callout-orchid h2,
+.bs-callout-orchid h3,
+.bs-callout-orchid h4,
+.bs-callout-orchid h5,
+.bs-callout-orchid h6 {
+  color: #DA70D6;
+}
+.bs-callout-orangered {
+  border-left-color: #FF4500;
+}
+.bs-callout-orangered h1,
+.bs-callout-orangered h2,
+.bs-callout-orangered h3,
+.bs-callout-orangered h4,
+.bs-callout-orangered h5,
+.bs-callout-orangered h6 {
+  color: #FF4500;
+}
+.bs-callout-orange {
+  border-left-color: #FFA500;
+}
+.bs-callout-orange h1,
+.bs-callout-orange h2,
+.bs-callout-orange h3,
+.bs-callout-orange h4,
+.bs-callout-orange h5,
+.bs-callout-orange h6 {
+  color: #FFA500;
+}
+.bs-callout-olivedrab {
+  border-left-color: #6B8E23;
+}
+.bs-callout-olivedrab h1,
+.bs-callout-olivedrab h2,
+.bs-callout-olivedrab h3,
+.bs-callout-olivedrab h4,
+.bs-callout-olivedrab h5,
+.bs-callout-olivedrab h6 {
+  color: #6B8E23;
+}
+.bs-callout-olive {
+  border-left-color: #808000;
+}
+.bs-callout-olive h1,
+.bs-callout-olive h2,
+.bs-callout-olive h3,
+.bs-callout-olive h4,
+.bs-callout-olive h5,
+.bs-callout-olive h6 {
+  color: #808000;
+}
+.bs-callout-oldlace {
+  border-left-color: #FDF5E6;
+}
+.bs-callout-oldlace h1,
+.bs-callout-oldlace h2,
+.bs-callout-oldlace h3,
+.bs-callout-oldlace h4,
+.bs-callout-oldlace h5,
+.bs-callout-oldlace h6 {
+  color: #FDF5E6;
 }
 .bs-callout-navy {
-  border-left-color: navy;
+  border-left-color: #000080;
 }
 .bs-callout-navy h1,
 .bs-callout-navy h2,
@@ -8239,10 +7205,967 @@ button.close {
 .bs-callout-navy h4,
 .bs-callout-navy h5,
 .bs-callout-navy h6 {
-  color: navy;
+  color: #000080;
+}
+.bs-callout-navajowhite {
+  border-left-color: #FFDEAD;
+}
+.bs-callout-navajowhite h1,
+.bs-callout-navajowhite h2,
+.bs-callout-navajowhite h3,
+.bs-callout-navajowhite h4,
+.bs-callout-navajowhite h5,
+.bs-callout-navajowhite h6 {
+  color: #FFDEAD;
+}
+.bs-callout-moccasin {
+  border-left-color: #FFE4B5;
+}
+.bs-callout-moccasin h1,
+.bs-callout-moccasin h2,
+.bs-callout-moccasin h3,
+.bs-callout-moccasin h4,
+.bs-callout-moccasin h5,
+.bs-callout-moccasin h6 {
+  color: #FFE4B5;
+}
+.bs-callout-mistyrose {
+  border-left-color: #FFE4E1;
+}
+.bs-callout-mistyrose h1,
+.bs-callout-mistyrose h2,
+.bs-callout-mistyrose h3,
+.bs-callout-mistyrose h4,
+.bs-callout-mistyrose h5,
+.bs-callout-mistyrose h6 {
+  color: #FFE4E1;
+}
+.bs-callout-mintcream {
+  border-left-color: #F5FFFA;
+}
+.bs-callout-mintcream h1,
+.bs-callout-mintcream h2,
+.bs-callout-mintcream h3,
+.bs-callout-mintcream h4,
+.bs-callout-mintcream h5,
+.bs-callout-mintcream h6 {
+  color: #F5FFFA;
+}
+.bs-callout-midnightblue {
+  border-left-color: #191970;
+}
+.bs-callout-midnightblue h1,
+.bs-callout-midnightblue h2,
+.bs-callout-midnightblue h3,
+.bs-callout-midnightblue h4,
+.bs-callout-midnightblue h5,
+.bs-callout-midnightblue h6 {
+  color: #191970;
+}
+.bs-callout-mediumvioletred {
+  border-left-color: #C71585;
+}
+.bs-callout-mediumvioletred h1,
+.bs-callout-mediumvioletred h2,
+.bs-callout-mediumvioletred h3,
+.bs-callout-mediumvioletred h4,
+.bs-callout-mediumvioletred h5,
+.bs-callout-mediumvioletred h6 {
+  color: #C71585;
+}
+.bs-callout-mediumturquoise {
+  border-left-color: #48D1CC;
+}
+.bs-callout-mediumturquoise h1,
+.bs-callout-mediumturquoise h2,
+.bs-callout-mediumturquoise h3,
+.bs-callout-mediumturquoise h4,
+.bs-callout-mediumturquoise h5,
+.bs-callout-mediumturquoise h6 {
+  color: #48D1CC;
+}
+.bs-callout-mediumspringgreen {
+  border-left-color: #00FA9A;
+}
+.bs-callout-mediumspringgreen h1,
+.bs-callout-mediumspringgreen h2,
+.bs-callout-mediumspringgreen h3,
+.bs-callout-mediumspringgreen h4,
+.bs-callout-mediumspringgreen h5,
+.bs-callout-mediumspringgreen h6 {
+  color: #00FA9A;
+}
+.bs-callout-mediumslateblue {
+  border-left-color: #7B68EE;
+}
+.bs-callout-mediumslateblue h1,
+.bs-callout-mediumslateblue h2,
+.bs-callout-mediumslateblue h3,
+.bs-callout-mediumslateblue h4,
+.bs-callout-mediumslateblue h5,
+.bs-callout-mediumslateblue h6 {
+  color: #7B68EE;
+}
+.bs-callout-mediumseagreen {
+  border-left-color: #3CB371;
+}
+.bs-callout-mediumseagreen h1,
+.bs-callout-mediumseagreen h2,
+.bs-callout-mediumseagreen h3,
+.bs-callout-mediumseagreen h4,
+.bs-callout-mediumseagreen h5,
+.bs-callout-mediumseagreen h6 {
+  color: #3CB371;
+}
+.bs-callout-mediumpurple {
+  border-left-color: #9370DB;
+}
+.bs-callout-mediumpurple h1,
+.bs-callout-mediumpurple h2,
+.bs-callout-mediumpurple h3,
+.bs-callout-mediumpurple h4,
+.bs-callout-mediumpurple h5,
+.bs-callout-mediumpurple h6 {
+  color: #9370DB;
+}
+.bs-callout-mediumorchid {
+  border-left-color: #BA55D3;
+}
+.bs-callout-mediumorchid h1,
+.bs-callout-mediumorchid h2,
+.bs-callout-mediumorchid h3,
+.bs-callout-mediumorchid h4,
+.bs-callout-mediumorchid h5,
+.bs-callout-mediumorchid h6 {
+  color: #BA55D3;
+}
+.bs-callout-mediumblue {
+  border-left-color: #0000CD;
+}
+.bs-callout-mediumblue h1,
+.bs-callout-mediumblue h2,
+.bs-callout-mediumblue h3,
+.bs-callout-mediumblue h4,
+.bs-callout-mediumblue h5,
+.bs-callout-mediumblue h6 {
+  color: #0000CD;
+}
+.bs-callout-mediumaquamarine {
+  border-left-color: #66CDAA;
+}
+.bs-callout-mediumaquamarine h1,
+.bs-callout-mediumaquamarine h2,
+.bs-callout-mediumaquamarine h3,
+.bs-callout-mediumaquamarine h4,
+.bs-callout-mediumaquamarine h5,
+.bs-callout-mediumaquamarine h6 {
+  color: #66CDAA;
+}
+.bs-callout-maroon {
+  border-left-color: #800000;
+}
+.bs-callout-maroon h1,
+.bs-callout-maroon h2,
+.bs-callout-maroon h3,
+.bs-callout-maroon h4,
+.bs-callout-maroon h5,
+.bs-callout-maroon h6 {
+  color: #800000;
+}
+.bs-callout-magenta {
+  border-left-color: #FF00FF;
+}
+.bs-callout-magenta h1,
+.bs-callout-magenta h2,
+.bs-callout-magenta h3,
+.bs-callout-magenta h4,
+.bs-callout-magenta h5,
+.bs-callout-magenta h6 {
+  color: #FF00FF;
+}
+.bs-callout-linen {
+  border-left-color: #FAF0E6;
+}
+.bs-callout-linen h1,
+.bs-callout-linen h2,
+.bs-callout-linen h3,
+.bs-callout-linen h4,
+.bs-callout-linen h5,
+.bs-callout-linen h6 {
+  color: #FAF0E6;
+}
+.bs-callout-limegreen {
+  border-left-color: #32CD32;
+}
+.bs-callout-limegreen h1,
+.bs-callout-limegreen h2,
+.bs-callout-limegreen h3,
+.bs-callout-limegreen h4,
+.bs-callout-limegreen h5,
+.bs-callout-limegreen h6 {
+  color: #32CD32;
+}
+.bs-callout-lime {
+  border-left-color: #00FF00;
+}
+.bs-callout-lime h1,
+.bs-callout-lime h2,
+.bs-callout-lime h3,
+.bs-callout-lime h4,
+.bs-callout-lime h5,
+.bs-callout-lime h6 {
+  color: #00FF00;
+}
+.bs-callout-lightyellow {
+  border-left-color: #FFFFE0;
+}
+.bs-callout-lightyellow h1,
+.bs-callout-lightyellow h2,
+.bs-callout-lightyellow h3,
+.bs-callout-lightyellow h4,
+.bs-callout-lightyellow h5,
+.bs-callout-lightyellow h6 {
+  color: #FFFFE0;
+}
+.bs-callout-lightsteelblue {
+  border-left-color: #B0C4DE;
+}
+.bs-callout-lightsteelblue h1,
+.bs-callout-lightsteelblue h2,
+.bs-callout-lightsteelblue h3,
+.bs-callout-lightsteelblue h4,
+.bs-callout-lightsteelblue h5,
+.bs-callout-lightsteelblue h6 {
+  color: #B0C4DE;
+}
+.bs-callout-lightslategray {
+  border-left-color: #778899;
+}
+.bs-callout-lightslategray h1,
+.bs-callout-lightslategray h2,
+.bs-callout-lightslategray h3,
+.bs-callout-lightslategray h4,
+.bs-callout-lightslategray h5,
+.bs-callout-lightslategray h6 {
+  color: #778899;
+}
+.bs-callout-lightskyblue {
+  border-left-color: #87CEFA;
+}
+.bs-callout-lightskyblue h1,
+.bs-callout-lightskyblue h2,
+.bs-callout-lightskyblue h3,
+.bs-callout-lightskyblue h4,
+.bs-callout-lightskyblue h5,
+.bs-callout-lightskyblue h6 {
+  color: #87CEFA;
+}
+.bs-callout-lightseagreen {
+  border-left-color: #20B2AA;
+}
+.bs-callout-lightseagreen h1,
+.bs-callout-lightseagreen h2,
+.bs-callout-lightseagreen h3,
+.bs-callout-lightseagreen h4,
+.bs-callout-lightseagreen h5,
+.bs-callout-lightseagreen h6 {
+  color: #20B2AA;
+}
+.bs-callout-lightsalmon {
+  border-left-color: #FFA07A;
+}
+.bs-callout-lightsalmon h1,
+.bs-callout-lightsalmon h2,
+.bs-callout-lightsalmon h3,
+.bs-callout-lightsalmon h4,
+.bs-callout-lightsalmon h5,
+.bs-callout-lightsalmon h6 {
+  color: #FFA07A;
+}
+.bs-callout-lightpink {
+  border-left-color: #FFB6C1;
+}
+.bs-callout-lightpink h1,
+.bs-callout-lightpink h2,
+.bs-callout-lightpink h3,
+.bs-callout-lightpink h4,
+.bs-callout-lightpink h5,
+.bs-callout-lightpink h6 {
+  color: #FFB6C1;
+}
+.bs-callout-lightgreen {
+  border-left-color: #90EE90;
+}
+.bs-callout-lightgreen h1,
+.bs-callout-lightgreen h2,
+.bs-callout-lightgreen h3,
+.bs-callout-lightgreen h4,
+.bs-callout-lightgreen h5,
+.bs-callout-lightgreen h6 {
+  color: #90EE90;
+}
+.bs-callout-lightgray {
+  border-left-color: #D3D3D3;
+}
+.bs-callout-lightgray h1,
+.bs-callout-lightgray h2,
+.bs-callout-lightgray h3,
+.bs-callout-lightgray h4,
+.bs-callout-lightgray h5,
+.bs-callout-lightgray h6 {
+  color: #D3D3D3;
+}
+.bs-callout-lightgoldenrodyellow {
+  border-left-color: #FAFAD2;
+}
+.bs-callout-lightgoldenrodyellow h1,
+.bs-callout-lightgoldenrodyellow h2,
+.bs-callout-lightgoldenrodyellow h3,
+.bs-callout-lightgoldenrodyellow h4,
+.bs-callout-lightgoldenrodyellow h5,
+.bs-callout-lightgoldenrodyellow h6 {
+  color: #FAFAD2;
+}
+.bs-callout-lightcyan {
+  border-left-color: #E0FFFF;
+}
+.bs-callout-lightcyan h1,
+.bs-callout-lightcyan h2,
+.bs-callout-lightcyan h3,
+.bs-callout-lightcyan h4,
+.bs-callout-lightcyan h5,
+.bs-callout-lightcyan h6 {
+  color: #E0FFFF;
+}
+.bs-callout-lightcoral {
+  border-left-color: #F08080;
+}
+.bs-callout-lightcoral h1,
+.bs-callout-lightcoral h2,
+.bs-callout-lightcoral h3,
+.bs-callout-lightcoral h4,
+.bs-callout-lightcoral h5,
+.bs-callout-lightcoral h6 {
+  color: #F08080;
+}
+.bs-callout-lightblue {
+  border-left-color: #ADD8E6;
+}
+.bs-callout-lightblue h1,
+.bs-callout-lightblue h2,
+.bs-callout-lightblue h3,
+.bs-callout-lightblue h4,
+.bs-callout-lightblue h5,
+.bs-callout-lightblue h6 {
+  color: #ADD8E6;
+}
+.bs-callout-lemonchiffon {
+  border-left-color: #FFFACD;
+}
+.bs-callout-lemonchiffon h1,
+.bs-callout-lemonchiffon h2,
+.bs-callout-lemonchiffon h3,
+.bs-callout-lemonchiffon h4,
+.bs-callout-lemonchiffon h5,
+.bs-callout-lemonchiffon h6 {
+  color: #FFFACD;
+}
+.bs-callout-lawngreen {
+  border-left-color: #7CFC00;
+}
+.bs-callout-lawngreen h1,
+.bs-callout-lawngreen h2,
+.bs-callout-lawngreen h3,
+.bs-callout-lawngreen h4,
+.bs-callout-lawngreen h5,
+.bs-callout-lawngreen h6 {
+  color: #7CFC00;
+}
+.bs-callout-lavenderblush {
+  border-left-color: #FFF0F5;
+}
+.bs-callout-lavenderblush h1,
+.bs-callout-lavenderblush h2,
+.bs-callout-lavenderblush h3,
+.bs-callout-lavenderblush h4,
+.bs-callout-lavenderblush h5,
+.bs-callout-lavenderblush h6 {
+  color: #FFF0F5;
+}
+.bs-callout-lavender {
+  border-left-color: #E6E6FA;
+}
+.bs-callout-lavender h1,
+.bs-callout-lavender h2,
+.bs-callout-lavender h3,
+.bs-callout-lavender h4,
+.bs-callout-lavender h5,
+.bs-callout-lavender h6 {
+  color: #E6E6FA;
+}
+.bs-callout-khaki {
+  border-left-color: #F0E68C;
+}
+.bs-callout-khaki h1,
+.bs-callout-khaki h2,
+.bs-callout-khaki h3,
+.bs-callout-khaki h4,
+.bs-callout-khaki h5,
+.bs-callout-khaki h6 {
+  color: #F0E68C;
+}
+.bs-callout-ivory {
+  border-left-color: #FFFFF0;
+}
+.bs-callout-ivory h1,
+.bs-callout-ivory h2,
+.bs-callout-ivory h3,
+.bs-callout-ivory h4,
+.bs-callout-ivory h5,
+.bs-callout-ivory h6 {
+  color: #FFFFF0;
+}
+.bs-callout-indigo {
+  border-left-color: #4B0082;
+}
+.bs-callout-indigo h1,
+.bs-callout-indigo h2,
+.bs-callout-indigo h3,
+.bs-callout-indigo h4,
+.bs-callout-indigo h5,
+.bs-callout-indigo h6 {
+  color: #4B0082;
+}
+.bs-callout-indianred {
+  border-left-color: #CD5C5C;
+}
+.bs-callout-indianred h1,
+.bs-callout-indianred h2,
+.bs-callout-indianred h3,
+.bs-callout-indianred h4,
+.bs-callout-indianred h5,
+.bs-callout-indianred h6 {
+  color: #CD5C5C;
+}
+.bs-callout-hotpink {
+  border-left-color: #FF69B4;
+}
+.bs-callout-hotpink h1,
+.bs-callout-hotpink h2,
+.bs-callout-hotpink h3,
+.bs-callout-hotpink h4,
+.bs-callout-hotpink h5,
+.bs-callout-hotpink h6 {
+  color: #FF69B4;
+}
+.bs-callout-honeydew {
+  border-left-color: #F0FFF0;
+}
+.bs-callout-honeydew h1,
+.bs-callout-honeydew h2,
+.bs-callout-honeydew h3,
+.bs-callout-honeydew h4,
+.bs-callout-honeydew h5,
+.bs-callout-honeydew h6 {
+  color: #F0FFF0;
+}
+.bs-callout-greenyellow {
+  border-left-color: #ADFF2F;
+}
+.bs-callout-greenyellow h1,
+.bs-callout-greenyellow h2,
+.bs-callout-greenyellow h3,
+.bs-callout-greenyellow h4,
+.bs-callout-greenyellow h5,
+.bs-callout-greenyellow h6 {
+  color: #ADFF2F;
+}
+.bs-callout-green {
+  border-left-color: #008000;
+}
+.bs-callout-green h1,
+.bs-callout-green h2,
+.bs-callout-green h3,
+.bs-callout-green h4,
+.bs-callout-green h5,
+.bs-callout-green h6 {
+  color: #008000;
+}
+.bs-callout-gray {
+  border-left-color: #808080;
+}
+.bs-callout-gray h1,
+.bs-callout-gray h2,
+.bs-callout-gray h3,
+.bs-callout-gray h4,
+.bs-callout-gray h5,
+.bs-callout-gray h6 {
+  color: #808080;
+}
+.bs-callout-goldenrod {
+  border-left-color: #DAA520;
+}
+.bs-callout-goldenrod h1,
+.bs-callout-goldenrod h2,
+.bs-callout-goldenrod h3,
+.bs-callout-goldenrod h4,
+.bs-callout-goldenrod h5,
+.bs-callout-goldenrod h6 {
+  color: #DAA520;
+}
+.bs-callout-gold {
+  border-left-color: #FFD700;
+}
+.bs-callout-gold h1,
+.bs-callout-gold h2,
+.bs-callout-gold h3,
+.bs-callout-gold h4,
+.bs-callout-gold h5,
+.bs-callout-gold h6 {
+  color: #FFD700;
+}
+.bs-callout-ghostwhite {
+  border-left-color: #F8F8FF;
+}
+.bs-callout-ghostwhite h1,
+.bs-callout-ghostwhite h2,
+.bs-callout-ghostwhite h3,
+.bs-callout-ghostwhite h4,
+.bs-callout-ghostwhite h5,
+.bs-callout-ghostwhite h6 {
+  color: #F8F8FF;
+}
+.bs-callout-gainsboro {
+  border-left-color: #DCDCDC;
+}
+.bs-callout-gainsboro h1,
+.bs-callout-gainsboro h2,
+.bs-callout-gainsboro h3,
+.bs-callout-gainsboro h4,
+.bs-callout-gainsboro h5,
+.bs-callout-gainsboro h6 {
+  color: #DCDCDC;
+}
+.bs-callout-fuchsia {
+  border-left-color: #FF00FF;
+}
+.bs-callout-fuchsia h1,
+.bs-callout-fuchsia h2,
+.bs-callout-fuchsia h3,
+.bs-callout-fuchsia h4,
+.bs-callout-fuchsia h5,
+.bs-callout-fuchsia h6 {
+  color: #FF00FF;
+}
+.bs-callout-forestgreen {
+  border-left-color: #228B22;
+}
+.bs-callout-forestgreen h1,
+.bs-callout-forestgreen h2,
+.bs-callout-forestgreen h3,
+.bs-callout-forestgreen h4,
+.bs-callout-forestgreen h5,
+.bs-callout-forestgreen h6 {
+  color: #228B22;
+}
+.bs-callout-floralwhite {
+  border-left-color: #FFFAF0;
+}
+.bs-callout-floralwhite h1,
+.bs-callout-floralwhite h2,
+.bs-callout-floralwhite h3,
+.bs-callout-floralwhite h4,
+.bs-callout-floralwhite h5,
+.bs-callout-floralwhite h6 {
+  color: #FFFAF0;
+}
+.bs-callout-firebrick {
+  border-left-color: #B22222;
+}
+.bs-callout-firebrick h1,
+.bs-callout-firebrick h2,
+.bs-callout-firebrick h3,
+.bs-callout-firebrick h4,
+.bs-callout-firebrick h5,
+.bs-callout-firebrick h6 {
+  color: #B22222;
+}
+.bs-callout-dodgerblue {
+  border-left-color: #1E90FF;
+}
+.bs-callout-dodgerblue h1,
+.bs-callout-dodgerblue h2,
+.bs-callout-dodgerblue h3,
+.bs-callout-dodgerblue h4,
+.bs-callout-dodgerblue h5,
+.bs-callout-dodgerblue h6 {
+  color: #1E90FF;
+}
+.bs-callout-dimgray {
+  border-left-color: #696969;
+}
+.bs-callout-dimgray h1,
+.bs-callout-dimgray h2,
+.bs-callout-dimgray h3,
+.bs-callout-dimgray h4,
+.bs-callout-dimgray h5,
+.bs-callout-dimgray h6 {
+  color: #696969;
+}
+.bs-callout-deepskyblue {
+  border-left-color: #00BFFF;
+}
+.bs-callout-deepskyblue h1,
+.bs-callout-deepskyblue h2,
+.bs-callout-deepskyblue h3,
+.bs-callout-deepskyblue h4,
+.bs-callout-deepskyblue h5,
+.bs-callout-deepskyblue h6 {
+  color: #00BFFF;
+}
+.bs-callout-deeppink {
+  border-left-color: #FF1493;
+}
+.bs-callout-deeppink h1,
+.bs-callout-deeppink h2,
+.bs-callout-deeppink h3,
+.bs-callout-deeppink h4,
+.bs-callout-deeppink h5,
+.bs-callout-deeppink h6 {
+  color: #FF1493;
+}
+.bs-callout-darkviolet {
+  border-left-color: #9400D3;
+}
+.bs-callout-darkviolet h1,
+.bs-callout-darkviolet h2,
+.bs-callout-darkviolet h3,
+.bs-callout-darkviolet h4,
+.bs-callout-darkviolet h5,
+.bs-callout-darkviolet h6 {
+  color: #9400D3;
+}
+.bs-callout-darkturquoise {
+  border-left-color: #00CED1;
+}
+.bs-callout-darkturquoise h1,
+.bs-callout-darkturquoise h2,
+.bs-callout-darkturquoise h3,
+.bs-callout-darkturquoise h4,
+.bs-callout-darkturquoise h5,
+.bs-callout-darkturquoise h6 {
+  color: #00CED1;
+}
+.bs-callout-darkslategray {
+  border-left-color: #2F4F4F;
+}
+.bs-callout-darkslategray h1,
+.bs-callout-darkslategray h2,
+.bs-callout-darkslategray h3,
+.bs-callout-darkslategray h4,
+.bs-callout-darkslategray h5,
+.bs-callout-darkslategray h6 {
+  color: #2F4F4F;
+}
+.bs-callout-darkslateblue {
+  border-left-color: #483D8B;
+}
+.bs-callout-darkslateblue h1,
+.bs-callout-darkslateblue h2,
+.bs-callout-darkslateblue h3,
+.bs-callout-darkslateblue h4,
+.bs-callout-darkslateblue h5,
+.bs-callout-darkslateblue h6 {
+  color: #483D8B;
+}
+.bs-callout-darkseagreen {
+  border-left-color: #8FBC8F;
+}
+.bs-callout-darkseagreen h1,
+.bs-callout-darkseagreen h2,
+.bs-callout-darkseagreen h3,
+.bs-callout-darkseagreen h4,
+.bs-callout-darkseagreen h5,
+.bs-callout-darkseagreen h6 {
+  color: #8FBC8F;
+}
+.bs-callout-darksalmon {
+  border-left-color: #E9967A;
+}
+.bs-callout-darksalmon h1,
+.bs-callout-darksalmon h2,
+.bs-callout-darksalmon h3,
+.bs-callout-darksalmon h4,
+.bs-callout-darksalmon h5,
+.bs-callout-darksalmon h6 {
+  color: #E9967A;
+}
+.bs-callout-darkred {
+  border-left-color: #8B0000;
+}
+.bs-callout-darkred h1,
+.bs-callout-darkred h2,
+.bs-callout-darkred h3,
+.bs-callout-darkred h4,
+.bs-callout-darkred h5,
+.bs-callout-darkred h6 {
+  color: #8B0000;
+}
+.bs-callout-darkorchid {
+  border-left-color: #9932CC;
+}
+.bs-callout-darkorchid h1,
+.bs-callout-darkorchid h2,
+.bs-callout-darkorchid h3,
+.bs-callout-darkorchid h4,
+.bs-callout-darkorchid h5,
+.bs-callout-darkorchid h6 {
+  color: #9932CC;
+}
+.bs-callout-darkorange {
+  border-left-color: #FF8C00;
+}
+.bs-callout-darkorange h1,
+.bs-callout-darkorange h2,
+.bs-callout-darkorange h3,
+.bs-callout-darkorange h4,
+.bs-callout-darkorange h5,
+.bs-callout-darkorange h6 {
+  color: #FF8C00;
+}
+.bs-callout-darkolivegreen {
+  border-left-color: #556B2F;
+}
+.bs-callout-darkolivegreen h1,
+.bs-callout-darkolivegreen h2,
+.bs-callout-darkolivegreen h3,
+.bs-callout-darkolivegreen h4,
+.bs-callout-darkolivegreen h5,
+.bs-callout-darkolivegreen h6 {
+  color: #556B2F;
+}
+.bs-callout-darkmagenta {
+  border-left-color: #8B008B;
+}
+.bs-callout-darkmagenta h1,
+.bs-callout-darkmagenta h2,
+.bs-callout-darkmagenta h3,
+.bs-callout-darkmagenta h4,
+.bs-callout-darkmagenta h5,
+.bs-callout-darkmagenta h6 {
+  color: #8B008B;
+}
+.bs-callout-darkkhaki {
+  border-left-color: #BDB76B;
+}
+.bs-callout-darkkhaki h1,
+.bs-callout-darkkhaki h2,
+.bs-callout-darkkhaki h3,
+.bs-callout-darkkhaki h4,
+.bs-callout-darkkhaki h5,
+.bs-callout-darkkhaki h6 {
+  color: #BDB76B;
+}
+.bs-callout-darkgreen {
+  border-left-color: #006400;
+}
+.bs-callout-darkgreen h1,
+.bs-callout-darkgreen h2,
+.bs-callout-darkgreen h3,
+.bs-callout-darkgreen h4,
+.bs-callout-darkgreen h5,
+.bs-callout-darkgreen h6 {
+  color: #006400;
+}
+.bs-callout-darkgray {
+  border-left-color: #A9A9A9;
+}
+.bs-callout-darkgray h1,
+.bs-callout-darkgray h2,
+.bs-callout-darkgray h3,
+.bs-callout-darkgray h4,
+.bs-callout-darkgray h5,
+.bs-callout-darkgray h6 {
+  color: #A9A9A9;
+}
+.bs-callout-darkgoldenrod {
+  border-left-color: #B8860B;
+}
+.bs-callout-darkgoldenrod h1,
+.bs-callout-darkgoldenrod h2,
+.bs-callout-darkgoldenrod h3,
+.bs-callout-darkgoldenrod h4,
+.bs-callout-darkgoldenrod h5,
+.bs-callout-darkgoldenrod h6 {
+  color: #B8860B;
+}
+.bs-callout-darkcyan {
+  border-left-color: #008B8B;
+}
+.bs-callout-darkcyan h1,
+.bs-callout-darkcyan h2,
+.bs-callout-darkcyan h3,
+.bs-callout-darkcyan h4,
+.bs-callout-darkcyan h5,
+.bs-callout-darkcyan h6 {
+  color: #008B8B;
+}
+.bs-callout-darkblue {
+  border-left-color: #00008B;
+}
+.bs-callout-darkblue h1,
+.bs-callout-darkblue h2,
+.bs-callout-darkblue h3,
+.bs-callout-darkblue h4,
+.bs-callout-darkblue h5,
+.bs-callout-darkblue h6 {
+  color: #00008B;
+}
+.bs-callout-cyan {
+  border-left-color: #00FFFF;
+}
+.bs-callout-cyan h1,
+.bs-callout-cyan h2,
+.bs-callout-cyan h3,
+.bs-callout-cyan h4,
+.bs-callout-cyan h5,
+.bs-callout-cyan h6 {
+  color: #00FFFF;
+}
+.bs-callout-crimson {
+  border-left-color: #DC143C;
+}
+.bs-callout-crimson h1,
+.bs-callout-crimson h2,
+.bs-callout-crimson h3,
+.bs-callout-crimson h4,
+.bs-callout-crimson h5,
+.bs-callout-crimson h6 {
+  color: #DC143C;
+}
+.bs-callout-cornsilk {
+  border-left-color: #FFF8DC;
+}
+.bs-callout-cornsilk h1,
+.bs-callout-cornsilk h2,
+.bs-callout-cornsilk h3,
+.bs-callout-cornsilk h4,
+.bs-callout-cornsilk h5,
+.bs-callout-cornsilk h6 {
+  color: #FFF8DC;
+}
+.bs-callout-cornflowerblue {
+  border-left-color: #6495ED;
+}
+.bs-callout-cornflowerblue h1,
+.bs-callout-cornflowerblue h2,
+.bs-callout-cornflowerblue h3,
+.bs-callout-cornflowerblue h4,
+.bs-callout-cornflowerblue h5,
+.bs-callout-cornflowerblue h6 {
+  color: #6495ED;
+}
+.bs-callout-coral {
+  border-left-color: #FF7F50;
+}
+.bs-callout-coral h1,
+.bs-callout-coral h2,
+.bs-callout-coral h3,
+.bs-callout-coral h4,
+.bs-callout-coral h5,
+.bs-callout-coral h6 {
+  color: #FF7F50;
+}
+.bs-callout-chocolate {
+  border-left-color: #D2691E;
+}
+.bs-callout-chocolate h1,
+.bs-callout-chocolate h2,
+.bs-callout-chocolate h3,
+.bs-callout-chocolate h4,
+.bs-callout-chocolate h5,
+.bs-callout-chocolate h6 {
+  color: #D2691E;
+}
+.bs-callout-chartreuse {
+  border-left-color: #7FFF00;
+}
+.bs-callout-chartreuse h1,
+.bs-callout-chartreuse h2,
+.bs-callout-chartreuse h3,
+.bs-callout-chartreuse h4,
+.bs-callout-chartreuse h5,
+.bs-callout-chartreuse h6 {
+  color: #7FFF00;
+}
+.bs-callout-cadetblue {
+  border-left-color: #5F9EA0;
+}
+.bs-callout-cadetblue h1,
+.bs-callout-cadetblue h2,
+.bs-callout-cadetblue h3,
+.bs-callout-cadetblue h4,
+.bs-callout-cadetblue h5,
+.bs-callout-cadetblue h6 {
+  color: #5F9EA0;
+}
+.bs-callout-burlywood {
+  border-left-color: #DEB887;
+}
+.bs-callout-burlywood h1,
+.bs-callout-burlywood h2,
+.bs-callout-burlywood h3,
+.bs-callout-burlywood h4,
+.bs-callout-burlywood h5,
+.bs-callout-burlywood h6 {
+  color: #DEB887;
+}
+.bs-callout-brown {
+  border-left-color: #A52A2A;
+}
+.bs-callout-brown h1,
+.bs-callout-brown h2,
+.bs-callout-brown h3,
+.bs-callout-brown h4,
+.bs-callout-brown h5,
+.bs-callout-brown h6 {
+  color: #A52A2A;
+}
+.bs-callout-blueviolet {
+  border-left-color: #8A2BE2;
+}
+.bs-callout-blueviolet h1,
+.bs-callout-blueviolet h2,
+.bs-callout-blueviolet h3,
+.bs-callout-blueviolet h4,
+.bs-callout-blueviolet h5,
+.bs-callout-blueviolet h6 {
+  color: #8A2BE2;
+}
+.bs-callout-blue {
+  border-left-color: #0000FF;
+}
+.bs-callout-blue h1,
+.bs-callout-blue h2,
+.bs-callout-blue h3,
+.bs-callout-blue h4,
+.bs-callout-blue h5,
+.bs-callout-blue h6 {
+  color: #0000FF;
+}
+.bs-callout-blanchedalmond {
+  border-left-color: #FFEBCD;
+}
+.bs-callout-blanchedalmond h1,
+.bs-callout-blanchedalmond h2,
+.bs-callout-blanchedalmond h3,
+.bs-callout-blanchedalmond h4,
+.bs-callout-blanchedalmond h5,
+.bs-callout-blanchedalmond h6 {
+  color: #FFEBCD;
 }
 .bs-callout-black {
-  border-left-color: black;
+  border-left-color: #000000;
 }
 .bs-callout-black h1,
 .bs-callout-black h2,
@@ -8250,5 +8173,528 @@ button.close {
 .bs-callout-black h4,
 .bs-callout-black h5,
 .bs-callout-black h6 {
-  color: black;
+  color: #000000;
+}
+.bs-callout-bisque {
+  border-left-color: #FFE4C4;
+}
+.bs-callout-bisque h1,
+.bs-callout-bisque h2,
+.bs-callout-bisque h3,
+.bs-callout-bisque h4,
+.bs-callout-bisque h5,
+.bs-callout-bisque h6 {
+  color: #FFE4C4;
+}
+.bs-callout-beige {
+  border-left-color: #F5F5DC;
+}
+.bs-callout-beige h1,
+.bs-callout-beige h2,
+.bs-callout-beige h3,
+.bs-callout-beige h4,
+.bs-callout-beige h5,
+.bs-callout-beige h6 {
+  color: #F5F5DC;
+}
+.bs-callout-azure {
+  border-left-color: #F0FFFF;
+}
+.bs-callout-azure h1,
+.bs-callout-azure h2,
+.bs-callout-azure h3,
+.bs-callout-azure h4,
+.bs-callout-azure h5,
+.bs-callout-azure h6 {
+  color: #F0FFFF;
+}
+.bs-callout-aquamarine {
+  border-left-color: #7FFFD4;
+}
+.bs-callout-aquamarine h1,
+.bs-callout-aquamarine h2,
+.bs-callout-aquamarine h3,
+.bs-callout-aquamarine h4,
+.bs-callout-aquamarine h5,
+.bs-callout-aquamarine h6 {
+  color: #7FFFD4;
+}
+.bs-callout-aqua {
+  border-left-color: #00FFFF;
+}
+.bs-callout-aqua h1,
+.bs-callout-aqua h2,
+.bs-callout-aqua h3,
+.bs-callout-aqua h4,
+.bs-callout-aqua h5,
+.bs-callout-aqua h6 {
+  color: #00FFFF;
+}
+.bs-callout-antiquewhite {
+  border-left-color: #FAEBD7;
+}
+.bs-callout-antiquewhite h1,
+.bs-callout-antiquewhite h2,
+.bs-callout-antiquewhite h3,
+.bs-callout-antiquewhite h4,
+.bs-callout-antiquewhite h5,
+.bs-callout-antiquewhite h6 {
+  color: #FAEBD7;
+}
+.bs-callout-aliceblue {
+  border-left-color: #F0F8FF;
+}
+.bs-callout-aliceblue h1,
+.bs-callout-aliceblue h2,
+.bs-callout-aliceblue h3,
+.bs-callout-aliceblue h4,
+.bs-callout-aliceblue h5,
+.bs-callout-aliceblue h6 {
+  color: #F0F8FF;
+}
+/**
+Plantilla de colores 
+
+.panel-XXXXX {
+  border-color: XXXXX;
+}
+.panel-XXXXX > .panel-heading {
+  color: white;
+  background-color: XXXXX;
+  border-color: XXXXX;
+}
+.panel-XXXXX > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: XXXXX;
+}
+.panel-XXXXX > .panel-heading .badge {
+  color: XXXXX;
+  background-color: white;
+}
+.panel-XXXXX > .panel-footer + .panel-collapse > .panel-body {
+  border-bottom-color: XXXXX;
+}
+**/
+/** COLORED PANEL **/
+.panel-yellowgreen {
+  border-color: #9ACD32;
+}
+.panel-yellow {
+  border-color: #FFFF00;
+}
+.panel-whitesmoke {
+  border-color: #F5F5F5;
+}
+.panel-white {
+  border-color: #FFFFFF;
+}
+.panel-wheat {
+  border-color: #F5DEB3;
+}
+.panel-violet {
+  border-color: #EE82EE;
+}
+.panel-turquoise {
+  border-color: #40E0D0;
+}
+.panel-tomato {
+  border-color: #FF6347;
+}
+.panel-thistle {
+  border-color: #D8BFD8;
+}
+.panel-teal {
+  border-color: #008080;
+}
+.panel-tan {
+  border-color: #D2B48C;
+}
+.panel-steelblue {
+  border-color: #4682B4;
+}
+.panel-springgreen {
+  border-color: #00FF7F;
+}
+.panel-snow {
+  border-color: #FFFAFA;
+}
+.panel-slategray {
+  border-color: #708090;
+}
+.panel-slateblue {
+  border-color: #6A5ACD;
+}
+.panel-skyblue {
+  border-color: #87CEEB;
+}
+.panel-silver {
+  border-color: #C0C0C0;
+}
+.panel-sienna {
+  border-color: #A0522D;
+}
+.panel-seashell {
+  border-color: #FFF5EE;
+}
+.panel-seagreen {
+  border-color: #2E8B57;
+}
+.panel-sandybrown {
+  border-color: #F4A460;
+}
+.panel-salmon {
+  border-color: #FA8072;
+}
+.panel-saddlebrown {
+  border-color: #8B4513;
+}
+.panel-royalblue {
+  border-color: #4169E1;
+}
+.panel-rosybrown {
+  border-color: #BC8F8F;
+}
+.panel-red {
+  border-color: #FF0000;
+}
+.panel-rebeccapurple {
+  border-color: #663399;
+}
+.panel-purple {
+  border-color: #800080;
+}
+.panel-powderblue {
+  border-color: #B0E0E6;
+}
+.panel-plum {
+  border-color: #DDA0DD;
+}
+.panel-pink {
+  border-color: #FFC0CB;
+}
+.panel-peru {
+  border-color: #CD853F;
+}
+.panel-peachpuff {
+  border-color: #FFDAB9;
+}
+.panel-papayawhip {
+  border-color: #FFEFD5;
+}
+.panel-palevioletred {
+  border-color: #DB7093;
+}
+.panel-paleturquoise {
+  border-color: #AFEEEE;
+}
+.panel-palegreen {
+  border-color: #98FB98;
+}
+.panel-palegoldenrod {
+  border-color: #EEE8AA;
+}
+.panel-orchid {
+  border-color: #DA70D6;
+}
+.panel-orangered {
+  border-color: #FF4500;
+}
+.panel-orange {
+  border-color: #FFA500;
+}
+.panel-olivedrab {
+  border-color: #6B8E23;
+}
+.panel-olive {
+  border-color: #808000;
+}
+.panel-oldlace {
+  border-color: #FDF5E6;
+}
+.panel-navy {
+  border-color: #000080;
+}
+.panel-navajowhite {
+  border-color: #FFDEAD;
+}
+.panel-moccasin {
+  border-color: #FFE4B5;
+}
+.panel-mistyrose {
+  border-color: #FFE4E1;
+}
+.panel-mintcream {
+  border-color: #F5FFFA;
+}
+.panel-midnightblue {
+  border-color: #191970;
+}
+.panel-mediumvioletred {
+  border-color: #C71585;
+}
+.panel-mediumturquoise {
+  border-color: #48D1CC;
+}
+.panel-mediumspringgreen {
+  border-color: #00FA9A;
+}
+.panel-mediumslateblue {
+  border-color: #7B68EE;
+}
+.panel-mediumseagreen {
+  border-color: #3CB371;
+}
+.panel-mediumpurple {
+  border-color: #9370DB;
+}
+.panel-mediumorchid {
+  border-color: #BA55D3;
+}
+.panel-mediumblue {
+  border-color: #0000CD;
+}
+.panel-mediumaquamarine {
+  border-color: #66CDAA;
+}
+.panel-maroon {
+  border-color: #800000;
+}
+.panel-magenta {
+  border-color: #FF00FF;
+}
+.panel-linen {
+  border-color: #FAF0E6;
+}
+.panel-limegreen {
+  border-color: #32CD32;
+}
+.panel-lime {
+  border-color: #00FF00;
+}
+.panel-lightyellow {
+  border-color: #FFFFE0;
+}
+.panel-lightsteelblue {
+  border-color: #B0C4DE;
+}
+.panel-lightslategray {
+  border-color: #778899;
+}
+.panel-lightskyblue {
+  border-color: #87CEFA;
+}
+.panel-lightseagreen {
+  border-color: #20B2AA;
+}
+.panel-lightsalmon {
+  border-color: #FFA07A;
+}
+.panel-lightpink {
+  border-color: #FFB6C1;
+}
+.panel-lightgreen {
+  border-color: #90EE90;
+}
+.panel-lightgray {
+  border-color: #D3D3D3;
+}
+.panel-lightgoldenrodyellow {
+  border-color: #FAFAD2;
+}
+.panel-lightcyan {
+  border-color: #E0FFFF;
+}
+.panel-lightcoral {
+  border-color: #F08080;
+}
+.panel-lightblue {
+  border-color: #ADD8E6;
+}
+.panel-lemonchiffon {
+  border-color: #FFFACD;
+}
+.panel-lawngreen {
+  border-color: #7CFC00;
+}
+.panel-lavenderblush {
+  border-color: #FFF0F5;
+}
+.panel-lavender {
+  border-color: #E6E6FA;
+}
+.panel-khaki {
+  border-color: #F0E68C;
+}
+.panel-ivory {
+  border-color: #FFFFF0;
+}
+.panel-indigo {
+  border-color: #4B0082;
+}
+.panel-indianred {
+  border-color: #CD5C5C;
+}
+.panel-hotpink {
+  border-color: #FF69B4;
+}
+.panel-honeydew {
+  border-color: #F0FFF0;
+}
+.panel-greenyellow {
+  border-color: #ADFF2F;
+}
+.panel-green {
+  border-color: #008000;
+}
+.panel-gray {
+  border-color: #808080;
+}
+.panel-goldenrod {
+  border-color: #DAA520;
+}
+.panel-gold {
+  border-color: #FFD700;
+}
+.panel-ghostwhite {
+  border-color: #F8F8FF;
+}
+.panel-gainsboro {
+  border-color: #DCDCDC;
+}
+.panel-fuchsia {
+  border-color: #FF00FF;
+}
+.panel-forestgreen {
+  border-color: #228B22;
+}
+.panel-floralwhite {
+  border-color: #FFFAF0;
+}
+.panel-firebrick {
+  border-color: #B22222;
+}
+.panel-dodgerblue {
+  border-color: #1E90FF;
+}
+.panel-dimgray {
+  border-color: #696969;
+}
+.panel-deepskyblue {
+  border-color: #00BFFF;
+}
+.panel-deeppink {
+  border-color: #FF1493;
+}
+.panel-darkviolet {
+  border-color: #9400D3;
+}
+.panel-darkturquoise {
+  border-color: #00CED1;
+}
+.panel-darkslategray {
+  border-color: #2F4F4F;
+}
+.panel-darkslateblue {
+  border-color: #483D8B;
+}
+.panel-darkseagreen {
+  border-color: #8FBC8F;
+}
+.panel-darksalmon {
+  border-color: #E9967A;
+}
+.panel-darkred {
+  border-color: #8B0000;
+}
+.panel-darkorchid {
+  border-color: #9932CC;
+}
+.panel-darkorange {
+  border-color: #FF8C00;
+}
+.panel-darkolivegreen {
+  border-color: #556B2F;
+}
+.panel-darkmagenta {
+  border-color: #8B008B;
+}
+.panel-darkkhaki {
+  border-color: #BDB76B;
+}
+.panel-darkgreen {
+  border-color: #006400;
+}
+.panel-darkgray {
+  border-color: #A9A9A9;
+}
+.panel-darkgoldenrod {
+  border-color: #B8860B;
+}
+.panel-darkcyan {
+  border-color: #008B8B;
+}
+.panel-darkblue {
+  border-color: #00008B;
+}
+.panel-cyan {
+  border-color: #00FFFF;
+}
+.panel-crimson {
+  border-color: #DC143C;
+}
+.panel-cornsilk {
+  border-color: #FFF8DC;
+}
+.panel-cornflowerblue {
+  border-color: #6495ED;
+}
+.panel-coral {
+  border-color: #FF7F50;
+}
+.panel-chocolate {
+  border-color: #D2691E;
+}
+.panel-chartreuse {
+  border-color: #7FFF00;
+}
+.panel-cadetblue {
+  border-color: #5F9EA0;
+}
+.panel-burlywood {
+  border-color: #DEB887;
+}
+.panel-brown {
+  border-color: #A52A2A;
+}
+.panel-blueviolet {
+  border-color: #8A2BE2;
+}
+.panel-blue {
+  border-color: #0000FF;
+}
+.panel-blanchedalmond {
+  border-color: #FFEBCD;
+}
+.panel-black {
+  border-color: #000000;
+}
+.panel-bisque {
+  border-color: #FFE4C4;
+}
+.panel-beige {
+  border-color: #F5F5DC;
+}
+.panel-azure {
+  border-color: #F0FFFF;
+}
+.panel-aquamarine {
+  border-color: #7FFFD4;
+}
+.panel-aqua {
+  border-color: #00FFFF;
+}
+.panel-antiquewhite {
+  border-color: #FAEBD7;
+}
+.panel-aliceblue {
+  border-color: #F0F8FF;
 }

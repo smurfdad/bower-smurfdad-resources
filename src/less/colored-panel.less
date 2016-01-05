@@ -1,0 +1,35 @@
+@import "./colors.less";
+/**
+Plantilla de colores 
+
+.panel-XXXXX {
+  border-color: XXXXX;
+}
+.panel-XXXXX > .panel-heading {
+  color: white;
+  background-color: XXXXX;
+  border-color: XXXXX;
+}
+.panel-XXXXX > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: XXXXX;
+}
+.panel-XXXXX > .panel-heading .badge {
+  color: XXXXX;
+  background-color: white;
+}
+.panel-XXXXX > .panel-footer + .panel-collapse > .panel-body {
+  border-bottom-color: XXXXX;
+}
+**/
+
+/** COLORED PANEL **/
+
+.panel {
+    .-(@i: length(@colors)) when (@i > 0) {
+        @name: extract(@colors, @i);
+        &-@{name} {
+            border-color: @@name;
+        }
+        .-((@i - 1));
+    } .-;    
+}
