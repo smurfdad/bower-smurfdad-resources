@@ -1,0 +1,13 @@
+{
+  "name": "smurfdad-resources",
+  "version": "0.0.1",
+  "homepage": "https://github.com/smurfdad/bower-smurfdad-resources",
+  "authors": [
+    "Smurf Dad <smurfdad@smurfdad.es>"
+  ],
+  "description": "Recursos de Desarrollo de Smurf Dad para publicación en Bower",
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "jquery": "~2.1.4"
+  }
+}
