@@ -1,6 +1,6 @@
 {
   "name": "smurfdad-resources",
-  "version": "0.0.5",
+  "version": "0.0.3",
   "description": "Recursos de Desarrollo de Smurf Dad para publicación en Bower",
   "author": "Smurf Dad <smurfdad@smurfdad.es>",
   "devDependencies": {
