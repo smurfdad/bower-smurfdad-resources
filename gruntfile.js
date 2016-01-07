@@ -1,16 +1,14 @@
 module.exports = function(grunt) {
     // Configuramos Grunt
-    var fecha = new Date();
-    var tagVersion = "".concat(fecha.getFullYear(),"-",fecha.getMonth(),"-",fecha.getDate(),".",fecha.getHours(),".",fecha.getMinutes(),".",fecha.getSeconds());
-    var commitMessage = "Publicacion automatica "+tagVersion;
     grunt.initConfig({
         less: {
             main: {
                 files: {
-                    "src/styles/smurfdad.css": "src/less/smurfdad.less"
+                    "src/styles/smurfdad.css": "src/less/smurfdad.less",
+                    "src/styles/colored-panel.css": "src/less/colored-panel.less"
                 }
             }
-        },  
+        },
         postcss: {
             options: {
                 processors: [
@@ -21,7 +19,7 @@ module.exports = function(grunt) {
             main: {
                 src: "src/styles/*.css"
             }
-        },      
+        },
         clean: ["dist/*"],
         copy:{
             html: {
@@ -41,13 +39,13 @@ module.exports = function(grunt) {
                 src: 'fonts/*.*',
                 cwd: 'bower_components/bootstrap',
                 dest: 'dist/',
-            },          
+            },
             images: {
                 expand: true,
                 src: 'images/*.*',
                 cwd: 'src/',
                 dest: 'dist/',
-            },          
+            },
             libs: {
                 expand: true,
                 src: 'libs/*.js',
@@ -70,36 +68,36 @@ module.exports = function(grunt) {
             },
             css: {
                 files: ["src/styles/**/*.css"],
-                tasks: ["copy:styles"]          
+                tasks: ["copy:styles"]
             },
             applicationjs: {
                 files: ["src/scripts/**/*.js"],
-                tasks: ["concat"]          
+                tasks: ["concat"]
             },
             html: {
                 files: ["src/**/*.html"],
-                tasks: ["copy:html"]            
+                tasks: ["copy:html"]
             },
             images: {
                 files: ["src/images/**/*.*"],
-                tasks: ["copy:images"]            
+                tasks: ["copy:images"]
             },
             libs: {
                 files: ["src/libs/**/*.js"],
-                tasks: ["copy:libs"]            
-            }           
+                tasks: ["copy:libs"]
+            }
         },
         sync: {
             all: {
               options: {
-                // sync specific options 
+                // sync specific options
                 sync: ["author", "name", "version", "description"],
-                // optional: specify source and destination filenames 
+                // optional: specify source and destination filenames
                 from: "package.json",
                 to: "bower.json"
               }
             }
-          }        
+          }
     });
 
     // Cargar módulos de Grunt
