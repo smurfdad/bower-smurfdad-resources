@@ -100,22 +100,12 @@ module.exports = function(grunt) {
         },
         versioner: {
             options: {
-                bump: true,
-                file: 'package.json',
-                gitAdd: true,
-                gitCommit: true,
-                gitPush: true,
-                gitTag: true,
-                gitPushTag: true,
-                gitDescribeOptions: '--tags --always --dirty=-d',
                 tagPrefix: "",
-                commitMessagePrefix: 'Versión: ',
-                tagMessagePrefix: 'Versión: ',
-                readmeText: 'Versión actual:',
-                pushTo: 'origin',
-                branch: 'master',
+                commitMessagePrefix: "Versión: ",
+                tagMessagePrefix: "Versión: ",
+                readmeText: "Última versión Publicada:",
                 npm: false,
-                mode: 'production',
+                mode: "production",
                 configs: []
             },
             default: {
