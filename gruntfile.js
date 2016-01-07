@@ -89,15 +89,49 @@ module.exports = function(grunt) {
         },
         sync: {
             all: {
-              options: {
-                // sync specific options
-                sync: ["author", "name", "version", "description"],
-                // optional: specify source and destination filenames
-                from: "package.json",
-                to: "bower.json"
-              }
+                options: {
+                    // sync specific options
+                    sync: ["author", "name", "version", "description"],
+                    // optional: specify source and destination filenames
+                    from: "package.json",
+                    to: "bower.json"
+                }
             }
-          }
+        },
+        versioner: {
+            options: {
+                bump: true,
+                file: 'package.json',
+                gitAdd: true,
+                gitCommit: true,
+                gitPush: true,
+                gitTag: true,
+                gitPushTag: true,
+                gitDescribeOptions: '--tags --always --dirty=-d',
+                tagPrefix: "",
+                commitMessagePrefix: 'Versión: ',
+                tagMessagePrefix: 'Versión: ',
+                readmeText: 'Versión actual:',
+                pushTo: 'origin',
+                branch: 'master',
+                npm: false,
+                mode: 'production',
+                configs: []
+            },
+            default: {
+                files: {
+                    './package.json': ['./package.json'],
+                    './bower.json': ['./bower.json'],
+                    './README.md': ['./README.md']
+                }
+            },
+            patch: {
+                options: {
+                    file: './VERSION'
+                },
+                src: ['./package.json', './bower.json', './README.md']
+            }
+        }
     });
 
     // Cargar módulos de Grunt
@@ -108,6 +142,7 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks("grunt-contrib-concat");
     grunt.loadNpmTasks("grunt-contrib-watch");
     grunt.loadNpmTasks('grunt-npm2bower-sync');
+    grunt.loadNpmTasks('grunt-versioner');
 
     // Definimos las tareas disponibles
     grunt.registerTask("default", ["sync","clean", "less", "postcss","copy:styles","copy:html","copy:images","copy:libs","copy:fonts","watch"]);

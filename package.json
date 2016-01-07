@@ -1,6 +1,6 @@
 {
   "name": "smurfdad-resources",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Recursos de Desarrollo de Smurf Dad para publicación en Bower",
   "author": "Smurf Dad <smurfdad@smurfdad.es>",
   "devDependencies": {
@@ -14,6 +14,7 @@
     "grunt-contrib-watch": "^0.6.1",
     "grunt-gh-pages": "^1.0.0",
     "grunt-npm2bower-sync": "^0.9.1",
-    "grunt-postcss": "^0.7.1"
+    "grunt-postcss": "^0.7.1",
+    "grunt-versioner": "^0.1.10"
   }
 }
